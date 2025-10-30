@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
@@ -9,6 +9,7 @@ public class Projectile : MonoBehaviour
 
     private Animator anim;
     private BoxCollider2D boxCollider;
+    int damage = 10;
 
     private void Awake()
     {
@@ -33,6 +34,17 @@ public class Projectile : MonoBehaviour
 
         if (collision.tag == "Enemy")
             collision.GetComponent<Health>()?.TakeDamage(1);
+
+        if (collision.CompareTag("Boss"))
+        {
+            // Gây sát thương cho Boss
+            BossController boss = collision.GetComponent<BossController>();
+            if (boss != null)
+                boss.TakeDamage(damage);
+
+            // Hủy hoặc tắt viên đạn
+            gameObject.SetActive(false);
+        }
     }
     public void SetDirection(float _direction)
     {
@@ -48,8 +60,15 @@ public class Projectile : MonoBehaviour
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }
+
+    public void SetDamage(int dmg)
+    {
+        damage = dmg;
+    }
+
     private void Deactivate()
     {
         gameObject.SetActive(false);
     }
+
 }
