@@ -1,40 +1,71 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerRespawn : MonoBehaviour
 {
+    [Header("References")]
     [SerializeField] private AudioClip checkpoint;
     private Transform currentCheckpoint;
     private Health playerHealth;
     private UIManager uiManager;
+    private CameraController camController;
 
     private void Awake()
     {
         playerHealth = GetComponent<Health>();
-        uiManager = FindObjectOfType<UIManager>();
+        uiManager = Object.FindFirstObjectByType<UIManager>();
+        camController = Object.FindFirstObjectByType<CameraController>();
     }
 
     public void RespawnCheck()
     {
-        if (currentCheckpoint == null) 
+        if (currentCheckpoint == null)
         {
-            uiManager.GameOver();
+            // Không có checkpoint => hiện Game Over
+            if (uiManager != null)
+                uiManager.GameOver();
+            else
+                Debug.LogWarning("⚠️ PlayerRespawn: UIManager not found!");
             return;
         }
 
-        playerHealth.Respawn(); //Restore player health and reset animation
-        transform.position = currentCheckpoint.position; //Move player to checkpoint location
+        // Hồi máu và reset animation
+        playerHealth.Respawn();
 
-        //Move the camera to the checkpoint's room
-        Camera.main.GetComponent<CameraController>().MoveToNewRoom(currentCheckpoint.parent);
+        // Đưa player về checkpoint
+        transform.position = currentCheckpoint.position;
+
+        // Di chuyển camera về đúng room chứa checkpoint
+        if (camController != null)
+        {
+            // Nếu checkpoint nằm trong room object (parent)
+            Transform room = currentCheckpoint.parent != null ? currentCheckpoint.parent : currentCheckpoint;
+            camController.MoveToNewRoom(room);
+        }
+        else
+        {
+            Debug.LogWarning("⚠️ PlayerRespawn: CameraController not found!");
+        }
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Checkpoint")
+        if (collision.CompareTag("Checkpoint"))
         {
             currentCheckpoint = collision.transform;
-            SoundManager.instance.PlaySound(checkpoint);
+
+            // Bật âm thanh checkpoint
+            if (SoundManager.instance != null && checkpoint != null)
+                SoundManager.instance.PlaySound(checkpoint);
+
+            // Hiệu ứng checkpoint
+            var anim = collision.GetComponent<Animator>();
+            if (anim != null)
+                anim.SetTrigger("activate");
+
+            // Vô hiệu hóa collider để tránh kích hoạt lại
             collision.GetComponent<Collider2D>().enabled = false;
-            collision.GetComponent<Animator>().SetTrigger("activate");
+
+            Debug.Log($"✅ New checkpoint set: {currentCheckpoint.name}");
         }
     }
 }

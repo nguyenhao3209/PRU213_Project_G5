@@ -7,6 +7,7 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private GameObject[] fireballs;
     [SerializeField] private AudioClip fireballSound;
 
+
     private Animator anim;
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
