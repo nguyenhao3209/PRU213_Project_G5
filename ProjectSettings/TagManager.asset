@@ -7,7 +7,6 @@ TagManager:
   - Ground
   - Enemy
   - Checkpoint
-  - boss-lvl2
   - Boss
   layers:
   - Default
@@ -58,11 +57,16 @@ TagManager:
   - name: Ground
     uniqueID: 2649148703
     locked: 0
+<<<<<<< HEAD
   - name: Monster
     uniqueID: 476814303
     locked: 0
   - name: Boss
     uniqueID: 143423859
+=======
+  - name: Boss
+    uniqueID: 948997899
+>>>>>>> origin/Level5
     locked: 0
   m_RenderingLayers:
   - Default

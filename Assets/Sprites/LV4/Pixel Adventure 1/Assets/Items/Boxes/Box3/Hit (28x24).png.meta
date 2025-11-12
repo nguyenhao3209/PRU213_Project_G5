@@ -100,8 +100,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< HEAD:Assets/Sprites/LV4/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
 <<<<<<< HEAD:Assets/Sprites/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
 =======
+=======
+>>>>>>> origin/Level5:Assets/Sprites/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -115,7 +118,10 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< HEAD:Assets/Sprites/LV4/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
 >>>>>>> origin/LV4:Assets/Sprites/LV4/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
+=======
+>>>>>>> origin/Level5:Assets/Sprites/Pixel Adventure 1/Assets/Items/Boxes/Box3/Hit (28x24).png.meta
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0

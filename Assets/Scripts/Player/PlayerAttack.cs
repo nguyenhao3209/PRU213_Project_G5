@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -19,7 +19,13 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButton(0) && cooldownTimer > attackCooldown && Time.timeScale > 0)
+        // ✅ Kết hợp cả hai logic: cooldown, TimeScale và điều kiện tấn công
+        bool canAttackInput = Input.GetMouseButton(0);
+        bool cooldownReady = cooldownTimer > attackCooldown;
+        bool canAttackState = playerMovement == null || playerMovement.canAttack();
+        bool gameRunning = Time.timeScale > 0;
+
+        if (canAttackInput && cooldownReady && canAttackState && gameRunning)
             Attack();
 
         cooldownTimer += Time.deltaTime;
@@ -31,11 +37,11 @@ public class PlayerAttack : MonoBehaviour
         anim.SetTrigger("attack");
         cooldownTimer = 0;
 
-        // Lấy viên đạn trống
+        // ✅ Lấy viên đạn trống duy nhất và tái sử dụng
         int fireballIndex = FindFireball();
         GameObject fireball = fireballs[fireballIndex];
 
-        // Đặt vị trí và hướng
+        // Đặt vị trí và hướng trước khi kích hoạt
         fireball.transform.position = firePoint.position;
         fireball.SetActive(true);
         fireball.GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
@@ -48,6 +54,6 @@ public class PlayerAttack : MonoBehaviour
             if (!fireballs[i].activeInHierarchy)
                 return i;
         }
-        return 0;
+        return 0; // Nếu tất cả đạn đang bay, dùng lại viên đầu tiên
     }
 }

@@ -1,9 +1,9 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
     [SerializeField] private float speed = 10f;
-    [SerializeField] private int damage = 1;
+    [SerializeField] private int damage = 5;
 
     private float direction;
     private bool hit;
@@ -26,7 +26,8 @@ public class Projectile : MonoBehaviour
         transform.Translate(movementSpeed, 0, 0);
 
         lifetime += Time.deltaTime;
-        if (lifetime > 5f) gameObject.SetActive(false);
+        if (lifetime > 5f)
+            gameObject.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -35,16 +36,9 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         anim.SetTrigger("explode");
 
-        // ✅ Gây damage cho các loại đối tượng khác nhau tùy theo level
+        // ✅ Gộp toàn bộ logic xử lý va chạm từ cả hai nhánh
 
-        // Trường hợp Level 3 (Enemy, Boss cổ điển)
-        if (collision.CompareTag("Enemy"))
-            collision.GetComponent<Health>()?.TakeDamage(damage);
-
-        if (collision.CompareTag("Boss"))
-            collision.GetComponent<BossHealth>()?.TakeDamage(damage);
-
-        // Trường hợp Level 4 trở đi (đa dạng đối tượng có Health hoặc AI riêng)
+        // --- Level 3/4: Enemy & Boss (Health/BossHealth/AI/SlimeGirl)
         if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
         {
             // SlimeGirl đặc biệt
@@ -55,17 +49,25 @@ public class Projectile : MonoBehaviour
                 return;
             }
 
-            // Gây damage cho bất kỳ object nào có Health
-            Health targetHealth = collision.GetComponent<Health>();
-            if (targetHealth != null)
-            {
-                targetHealth.TakeDamage(damage);
-            }
-
-            // EnemyAI2D (nếu có)
+            // Enemy AI thông thường
             EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
             if (enemy != null)
                 enemy.TakeDamage(damage);
+
+            // Gây sát thương qua Health component
+            Health targetHealth = collision.GetComponent<Health>();
+            if (targetHealth != null)
+                targetHealth.TakeDamage(damage);
+
+            // BossHealth (Level 3)
+            BossHealth bossHealth = collision.GetComponent<BossHealth>();
+            if (bossHealth != null)
+                bossHealth.TakeDamage(damage);
+
+            // BossController (Level 5)
+            BossController bossController = collision.GetComponent<BossController>();
+            if (bossController != null)
+                bossController.TakeDamage(damage);
         }
     }
 
@@ -82,6 +84,11 @@ public class Projectile : MonoBehaviour
             localScaleX = -localScaleX;
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
+    }
+
+    public void SetDamage(int dmg)
+    {
+        damage = dmg;
     }
 
     // Hàm gọi từ animation event “explode”
