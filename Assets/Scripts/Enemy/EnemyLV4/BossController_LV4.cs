@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BossController : MonoBehaviour
+public class BossController_LV4 : MonoBehaviour
 {
     [Header("Boss Settings")]
     [SerializeField] private float attackCooldown = 2f;
@@ -58,7 +58,7 @@ public class BossController : MonoBehaviour
         if (isDead) return;
 
         isAttacking = true;
-        anim.ResetTrigger("Attack");
+        anim.ResetTrigger("Ide");
         anim.SetTrigger("Attack");
 
         Invoke(nameof(ShootProjectile), 0.4f);

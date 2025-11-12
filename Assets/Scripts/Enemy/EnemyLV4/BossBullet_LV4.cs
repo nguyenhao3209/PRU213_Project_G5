@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BossBullet : MonoBehaviour
+public class BossBullet_LV4 : MonoBehaviour
 {
     [SerializeField] private float damage = 1f;
     [SerializeField] private float lifeTime = 3f;
