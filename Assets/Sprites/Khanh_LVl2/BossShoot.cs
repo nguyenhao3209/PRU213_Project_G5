@@ -59,7 +59,7 @@ public class BossShoot : MonoBehaviour
 
         // Gán vận tốc cho đạn
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
-        rb.velocity = direction * 6f; // tốc độ 6, có thể chỉnh
+        rb.linearVelocity = direction * 6f; // tốc độ 6, có thể chỉnh
 
         // Xoay sprite của đạn cho đúng hướng
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;

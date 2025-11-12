@@ -43,13 +43,13 @@ public class BossAI : MonoBehaviour
     private void MoveTowardsPlayer()
     {
         Vector2 direction = (player.position - transform.position).normalized;
-        rb.velocity = new Vector2(direction.x * moveSpeed, rb.velocity.y);
-        Debug.Log("🏃 Boss di chuyển với vận tốc: " + rb.velocity);
+        rb.linearVelocity = new Vector2(direction.x * moveSpeed, rb.linearVelocity.y);
+        Debug.Log("🏃 Boss di chuyển với vận tốc: " + rb.linearVelocity);
     }
 
     private void StopMoving()
     {
-        rb.velocity = new Vector2(0, rb.velocity.y);
+        rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         Debug.Log("🛑 Boss dừng lại");
     }
 
