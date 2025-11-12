@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Enemy
   - Checkpoint
+  - boss-lvl2
+  - Boss
   layers:
   - Default
   - TransparentFX
