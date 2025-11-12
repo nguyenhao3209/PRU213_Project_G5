@@ -127,7 +127,7 @@ public class EnemyAI2D : MonoBehaviour
                 // Player bật ngược lên
                 Rigidbody2D playerRb = collision.gameObject.GetComponent<Rigidbody2D>();
                 if (playerRb != null)
-                    playerRb.velocity = new Vector2(playerRb.velocity.x, 8f);
+                    playerRb.linearVelocity = new Vector2(playerRb.linearVelocity.x, 8f);
             }
             else
             {
@@ -197,7 +197,7 @@ public class EnemyAI2D : MonoBehaviour
         if (animator != null)
             animator.SetTrigger("die");
 
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         rb.isKinematic = true;
         GetComponent<Collider2D>().enabled = false;
 

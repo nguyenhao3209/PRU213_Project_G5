@@ -35,7 +35,7 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         anim.SetTrigger("explode");
 
-        if (collision.CompareTag("Enemy"))
+        if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
         {
 
             SlimeGirl slime = collision.GetComponent<SlimeGirl>();
