@@ -56,3 +56,6 @@ TagManager:
   - name: Ground
     uniqueID: 2649148703
     locked: 0
+  - name: Monster
+    uniqueID: 476814303
+    locked: 0

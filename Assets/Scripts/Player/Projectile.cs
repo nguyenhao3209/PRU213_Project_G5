@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
-    [SerializeField] private float speed;
+    [SerializeField] private float speed = 10f;
+    [SerializeField] private int damage = 1;
+
     private float direction;
     private bool hit;
     private float lifetime;
@@ -15,14 +17,16 @@ public class Projectile : MonoBehaviour
         anim = GetComponent<Animator>();
         boxCollider = GetComponent<BoxCollider2D>();
     }
+
     private void Update()
     {
         if (hit) return;
-        float movementSpeed = speed * Time.deltaTime * direction;
-        transform.Translate(movementSpeed, 0, 0);
+
+        float movement = speed * Time.deltaTime * direction;
+        transform.Translate(movement, 0, 0);
 
         lifetime += Time.deltaTime;
-        if (lifetime > 5) gameObject.SetActive(false);
+        if (lifetime > 5f) gameObject.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -31,9 +35,29 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         anim.SetTrigger("explode");
 
-        if (collision.tag == "Enemy")
-            collision.GetComponent<Health>()?.TakeDamage(1);
+        if (collision.CompareTag("Enemy"))
+        {
+
+            SlimeGirl slime = collision.GetComponent<SlimeGirl>();
+            if(slime != null)
+            {
+                slime.TakeDamage(damage);
+                return; // dừng kiểm tra nếu là SlimeGirl
+            }
+
+            // ✅ Gây damage cho bất kỳ object nào có Health
+            Health targetHealth = collision.GetComponent<Health>();
+            if (targetHealth != null)
+            {
+                targetHealth.TakeDamage(damage);
+            }
+
+            EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
+            if (enemy != null)
+                enemy.TakeDamage(damage);
+        }
     }
+
     public void SetDirection(float _direction)
     {
         lifetime = 0;
@@ -48,6 +72,8 @@ public class Projectile : MonoBehaviour
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }
+
+    // Hàm này gọi từ animation event explode
     private void Deactivate()
     {
         gameObject.SetActive(false);
