@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 517a7f49bf968f848b68517d77f78278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6274524066159645508
+    second: Slime Girl_0
+  - first:
+      213: -8113033509282429916
+    second: Slime Girl_1
+  - first:
+      213: 6988237359312844967
+    second: Slime Girl_2
+  - first:
+      213: 5156054988960789961
+    second: Slime Girl_3
+  - first:
+      213: 633877545307881236
+    second: Slime Girl_4
+  - first:
+      213: 2077532833631316972
+    second: Slime Girl_5
+  - first:
+      213: 5179395910577801759
+    second: Slime Girl_6
+  - first:
+      213: 4760305322617957560
+    second: Slime Girl_7
+  - first:
+      213: 5695746700083108888
+    second: Slime Girl_8
+  - first:
+      213: 6501948442511778188
+    second: Slime Girl_9
+  - first:
+      213: 4425103931669711534
+    second: Slime Girl_10
+  - first:
+      213: 5824558033309703266
+    second: Slime Girl_11
+  - first:
+      213: -7692993861720767497
+    second: Slime Girl_12
+  - first:
+      213: -2657769897759221648
+    second: Slime Girl_13
+  - first:
+      213: 8558553327488381319
+    second: Slime Girl_14
+  - first:
+      213: 3024334463749612216
+    second: Slime Girl_15
+  - first:
+      213: 8561829602311949879
+    second: Slime Girl_16
+  - first:
+      213: 775353284555745356
+    second: Slime Girl_17
+  - first:
+      213: -6291488041309220931
+    second: Slime Girl_18
+  - first:
+      213: 7376643808694994465
+    second: Slime Girl_19
+  - first:
+      213: -8397377919852268922
+    second: Slime Girl_20
+  - first:
+      213: -396674601319805116
+    second: Slime Girl_21
+  - first:
+      213: 4688720945398564943
+    second: Slime Girl_22
+  - first:
+      213: 4490426136239605182
+    second: Slime Girl_23
+  - first:
+      213: 8455332927395417985
+    second: Slime Girl_24
+  - first:
+      213: 6156397733044638612
+    second: Slime Girl_25
+  - first:
+      213: 3021602330797782532
+    second: Slime Girl_26
+  - first:
+      213: 8122855889667192609
+    second: Slime Girl_27
+  - first:
+      213: 1707167750519040783
+    second: Slime Girl_28
+  - first:
+      213: -5140495435697652000
+    second: Slime Girl_29
+  - first:
+      213: 781951547271202145
+    second: Slime Girl_30
+  - first:
+      213: -5520506822063820970
+    second: Slime Girl_31
+  - first:
+      213: 5377526564837454800
+    second: Slime Girl_32
+  - first:
+      213: -4837300638485629276
+    second: Slime Girl_33
+  - first:
+      213: -5013186182616943691
+    second: Slime Girl_34
+  - first:
+      213: -2902260668446346205
+    second: Slime Girl_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime Girl_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 384
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d512f466931750800000000000000
+      internalID: 6274524066159645508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 384
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424416c0207b86f80800000000000000
+      internalID: -8113033509282429916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 384
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8b4ff5ad43bf060800000000000000
+      internalID: 6988237359312844967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 384
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5736bc1bcfd8740800000000000000
+      internalID: 5156054988960789961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 384
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3c2fd44cfbc800800000000000000
+      internalID: 633877545307881236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 384
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2ecdda11e4dc10800000000000000
+      internalID: 2077532833631316972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 384
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac9199329e0e740800000000000000
+      internalID: 5179395910577801759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 384
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6b014870001240800000000000000
+      internalID: 4760305322617957560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9e05427b5b0f40800000000000000
+      internalID: 5695746700083108888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 288
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a1dfd8af8b3a50800000000000000
+      internalID: 6501948442511778188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 288
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8b55a490296d30800000000000000
+      internalID: 4425103931669711534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9215ebacf4d050800000000000000
+      internalID: 5824558033309703266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 288
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38fdc87defc3590800000000000000
+      internalID: -7692993861720767497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_13
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 288
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d5550c54bd1bd0800000000000000
+      internalID: -2657769897759221648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781be2cf7e616c670800000000000000
+      internalID: 8558553327488381319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 288
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b264c1db2898f920800000000000000
+      internalID: 3024334463749612216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 192
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e4a3929aab1d670800000000000000
+      internalID: 8561829602311949879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 192
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a06d44bb92ca00800000000000000
+      internalID: 775353284555745356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf452dc5f420b8a0800000000000000
+      internalID: -6291488041309220931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12689dbf57a1f5660800000000000000
+      internalID: 7376643808694994465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 192
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823f7ae545867b80800000000000000
+      internalID: -8397377919852268922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 192
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc9e04d8abe7af0800000000000000
+      internalID: -396674601319805116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_22
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 192
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484a61abdea11140800000000000000
+      internalID: 4688720945398564943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 192
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb501b497c2315e30800000000000000
+      internalID: 4490426136239605182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f411bcf70675570800000000000000
+      internalID: 8455332927395417985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935526ce1bef6550800000000000000
+      internalID: 6156397733044638612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b1bb8f43eee920800000000000000
+      internalID: 3021602330797782532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277d49156e2ab070800000000000000
+      internalID: 8122855889667192609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 96
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba0bd260411b710800000000000000
+      internalID: 1707167750519040783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 96
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee79b103aa49a8b0800000000000000
+      internalID: -5140495435697652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_30
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 96
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165caae0acc0ada00800000000000000
+      internalID: 781951547271202145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_31
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 96
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe3c25b483363b0800000000000000
+      internalID: -5520506822063820970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fc5b5befc0aa40800000000000000
+      internalID: 5377526564837454800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63b4bc2b47edcb0800000000000000
+      internalID: -4837300638485629276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b378385ab59d6ab0800000000000000
+      internalID: -5013186182616943691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime Girl_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324faa38c4919b7d0800000000000000
+      internalID: -2902260668446346205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime Girl_0: 6274524066159645508
+      Slime Girl_1: -8113033509282429916
+      Slime Girl_10: 4425103931669711534
+      Slime Girl_11: 5824558033309703266
+      Slime Girl_12: -7692993861720767497
+      Slime Girl_13: -2657769897759221648
+      Slime Girl_14: 8558553327488381319
+      Slime Girl_15: 3024334463749612216
+      Slime Girl_16: 8561829602311949879
+      Slime Girl_17: 775353284555745356
+      Slime Girl_18: -6291488041309220931
+      Slime Girl_19: 7376643808694994465
+      Slime Girl_2: 6988237359312844967
+      Slime Girl_20: -8397377919852268922
+      Slime Girl_21: -396674601319805116
+      Slime Girl_22: 4688720945398564943
+      Slime Girl_23: 4490426136239605182
+      Slime Girl_24: 8455332927395417985
+      Slime Girl_25: 6156397733044638612
+      Slime Girl_26: 3021602330797782532
+      Slime Girl_27: 8122855889667192609
+      Slime Girl_28: 1707167750519040783
+      Slime Girl_29: -5140495435697652000
+      Slime Girl_3: 5156054988960789961
+      Slime Girl_30: 781951547271202145
+      Slime Girl_31: -5520506822063820970
+      Slime Girl_32: 5377526564837454800
+      Slime Girl_33: -4837300638485629276
+      Slime Girl_34: -5013186182616943691
+      Slime Girl_35: -2902260668446346205
+      Slime Girl_4: 633877545307881236
+      Slime Girl_5: 2077532833631316972
+      Slime Girl_6: 5179395910577801759
+      Slime Girl_7: 4760305322617957560
+      Slime Girl_8: 5695746700083108888
+      Slime Girl_9: 6501948442511778188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

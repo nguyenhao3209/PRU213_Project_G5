@@ -1,0 +1,6799 @@
+fileFormatVersion: 2
+guid: 1648bebe8488a87478cd69aae67096cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2962215238434538594
+    second: Bosses_Succubus_0
+  - first:
+      213: -1178740489431227147
+    second: Bosses_Succubus_1
+  - first:
+      213: -8430889290877159983
+    second: Bosses_Succubus_2
+  - first:
+      213: -6749216887319878010
+    second: Bosses_Succubus_3
+  - first:
+      213: -1293985185496835704
+    second: Bosses_Succubus_4
+  - first:
+      213: -8191810978014610385
+    second: Bosses_Succubus_5
+  - first:
+      213: 6129336174296250321
+    second: Bosses_Succubus_6
+  - first:
+      213: -8528676688814101583
+    second: Bosses_Succubus_7
+  - first:
+      213: -4618973195866459033
+    second: Bosses_Succubus_8
+  - first:
+      213: -9176123411155039558
+    second: Bosses_Succubus_9
+  - first:
+      213: -2511295113368404567
+    second: Bosses_Succubus_10
+  - first:
+      213: -8784362938323795445
+    second: Bosses_Succubus_11
+  - first:
+      213: 7716203594668138425
+    second: Bosses_Succubus_12
+  - first:
+      213: 4640892032380726101
+    second: Bosses_Succubus_13
+  - first:
+      213: 4554953106015729155
+    second: Bosses_Succubus_14
+  - first:
+      213: -4399491667016051550
+    second: Bosses_Succubus_15
+  - first:
+      213: -6316966157956777041
+    second: Bosses_Succubus_16
+  - first:
+      213: -452328010238979623
+    second: Bosses_Succubus_17
+  - first:
+      213: 913127300708321124
+    second: Bosses_Succubus_18
+  - first:
+      213: -3229827191167095839
+    second: Bosses_Succubus_19
+  - first:
+      213: 3767734804997812101
+    second: Bosses_Succubus_20
+  - first:
+      213: -310595015981914641
+    second: Bosses_Succubus_21
+  - first:
+      213: -8619897949199740636
+    second: Bosses_Succubus_22
+  - first:
+      213: -3791834147449650682
+    second: Bosses_Succubus_23
+  - first:
+      213: 7075426145109818391
+    second: Bosses_Succubus_24
+  - first:
+      213: 2330587813769874957
+    second: Bosses_Succubus_25
+  - first:
+      213: -6957514894294669994
+    second: Bosses_Succubus_26
+  - first:
+      213: 278710852664556566
+    second: Bosses_Succubus_27
+  - first:
+      213: 2088466356118053489
+    second: Bosses_Succubus_28
+  - first:
+      213: 2795943201872015247
+    second: Bosses_Succubus_29
+  - first:
+      213: -564268331689319985
+    second: Bosses_Succubus_30
+  - first:
+      213: -7408206499439517641
+    second: Bosses_Succubus_31
+  - first:
+      213: -2366731734671100573
+    second: Bosses_Succubus_32
+  - first:
+      213: 8543550936168842790
+    second: Bosses_Succubus_33
+  - first:
+      213: -344541045647177270
+    second: Bosses_Succubus_34
+  - first:
+      213: 1530491777692876246
+    second: Bosses_Succubus_35
+  - first:
+      213: -2059313047726160230
+    second: Bosses_Succubus_36
+  - first:
+      213: -8000820271683437972
+    second: Bosses_Succubus_37
+  - first:
+      213: 8967211577657464528
+    second: Bosses_Succubus_38
+  - first:
+      213: -2233870065255913109
+    second: Bosses_Succubus_39
+  - first:
+      213: -4514586655440247137
+    second: Bosses_Succubus_40
+  - first:
+      213: -8283298203972703515
+    second: Bosses_Succubus_41
+  - first:
+      213: 996811722246435967
+    second: Bosses_Succubus_42
+  - first:
+      213: -2346504725576632335
+    second: Bosses_Succubus_43
+  - first:
+      213: -7054757911449470137
+    second: Bosses_Succubus_44
+  - first:
+      213: 1745499281630449266
+    second: Bosses_Succubus_45
+  - first:
+      213: -1318352983241934272
+    second: Bosses_Succubus_46
+  - first:
+      213: 1080140519878831965
+    second: Bosses_Succubus_47
+  - first:
+      213: 6208768093976916305
+    second: Bosses_Succubus_48
+  - first:
+      213: 3594482264720326893
+    second: Bosses_Succubus_49
+  - first:
+      213: 6451026822808608834
+    second: Bosses_Succubus_50
+  - first:
+      213: -4974337167855469878
+    second: Bosses_Succubus_51
+  - first:
+      213: 3983620997500135288
+    second: Bosses_Succubus_52
+  - first:
+      213: -8180139162432263623
+    second: Bosses_Succubus_53
+  - first:
+      213: -3023495184633049315
+    second: Bosses_Succubus_54
+  - first:
+      213: 2366105645170222659
+    second: Bosses_Succubus_55
+  - first:
+      213: 8161553896118048859
+    second: Bosses_Succubus_56
+  - first:
+      213: -5499343628721780623
+    second: Bosses_Succubus_57
+  - first:
+      213: -8207418545198822551
+    second: Bosses_Succubus_58
+  - first:
+      213: -4344028154701021226
+    second: Bosses_Succubus_59
+  - first:
+      213: 4921681025045821328
+    second: Bosses_Succubus_60
+  - first:
+      213: -4987104266212681405
+    second: Bosses_Succubus_61
+  - first:
+      213: -7325001552668814166
+    second: Bosses_Succubus_62
+  - first:
+      213: -8043673961806372968
+    second: Bosses_Succubus_63
+  - first:
+      213: 5167906152008185454
+    second: Bosses_Succubus_64
+  - first:
+      213: -5996528394809636527
+    second: Bosses_Succubus_65
+  - first:
+      213: -2175282323829547556
+    second: Bosses_Succubus_66
+  - first:
+      213: 5816347825046759885
+    second: Bosses_Succubus_67
+  - first:
+      213: -2156938507834262288
+    second: Bosses_Succubus_68
+  - first:
+      213: -5721168159347142703
+    second: Bosses_Succubus_69
+  - first:
+      213: -2277017428077416455
+    second: Bosses_Succubus_70
+  - first:
+      213: 4258349874844452459
+    second: Bosses_Succubus_71
+  - first:
+      213: -8889862085728173379
+    second: Bosses_Succubus_72
+  - first:
+      213: -5650406360979557922
+    second: Bosses_Succubus_73
+  - first:
+      213: -7418285817031359742
+    second: Bosses_Succubus_74
+  - first:
+      213: 4116451475875544286
+    second: Bosses_Succubus_75
+  - first:
+      213: -7576805592683515702
+    second: Bosses_Succubus_76
+  - first:
+      213: -7787352871245132551
+    second: Bosses_Succubus_77
+  - first:
+      213: -8212120233758961526
+    second: Bosses_Succubus_78
+  - first:
+      213: 941535942532700695
+    second: Bosses_Succubus_79
+  - first:
+      213: 7978993893869014959
+    second: Bosses_Succubus_80
+  - first:
+      213: -3370059954911352203
+    second: Bosses_Succubus_81
+  - first:
+      213: -3976371197915501303
+    second: Bosses_Succubus_82
+  - first:
+      213: 5669936418489085898
+    second: Bosses_Succubus_83
+  - first:
+      213: 6446835709577982269
+    second: Bosses_Succubus_84
+  - first:
+      213: 6808859429200694954
+    second: Bosses_Succubus_85
+  - first:
+      213: 7595589141318379545
+    second: Bosses_Succubus_86
+  - first:
+      213: 3747163702810697555
+    second: Bosses_Succubus_87
+  - first:
+      213: -7602701998653351707
+    second: Bosses_Succubus_88
+  - first:
+      213: 6838547785388326980
+    second: Bosses_Succubus_89
+  - first:
+      213: 7434127976906629869
+    second: Bosses_Succubus_90
+  - first:
+      213: -3127015072291697793
+    second: Bosses_Succubus_91
+  - first:
+      213: -7845313491132176725
+    second: Bosses_Succubus_92
+  - first:
+      213: -7952182736664274645
+    second: Bosses_Succubus_93
+  - first:
+      213: 4851314087050708280
+    second: Bosses_Succubus_94
+  - first:
+      213: -8628580662053118297
+    second: Bosses_Succubus_95
+  - first:
+      213: 6267559786086709563
+    second: Bosses_Succubus_96
+  - first:
+      213: 6505418406479032768
+    second: Bosses_Succubus_97
+  - first:
+      213: -5197283270133374755
+    second: Bosses_Succubus_98
+  - first:
+      213: 8860736386617400931
+    second: Bosses_Succubus_99
+  - first:
+      213: 432944409111184179
+    second: Bosses_Succubus_100
+  - first:
+      213: 7016580971430850017
+    second: Bosses_Succubus_101
+  - first:
+      213: -992327195717706880
+    second: Bosses_Succubus_102
+  - first:
+      213: -8541802461105324021
+    second: Bosses_Succubus_103
+  - first:
+      213: 273690401426627963
+    second: Bosses_Succubus_104
+  - first:
+      213: 9082247107940680462
+    second: Bosses_Succubus_105
+  - first:
+      213: -4157863701278804418
+    second: Bosses_Succubus_106
+  - first:
+      213: 2600003458841030306
+    second: Bosses_Succubus_107
+  - first:
+      213: -2661941756427387517
+    second: Bosses_Succubus_108
+  - first:
+      213: 6053481888103397496
+    second: Bosses_Succubus_109
+  - first:
+      213: 817409156722590465
+    second: Bosses_Succubus_110
+  - first:
+      213: -3171670094016312152
+    second: Bosses_Succubus_111
+  - first:
+      213: 8150191992539229516
+    second: Bosses_Succubus_112
+  - first:
+      213: -2051324746875123941
+    second: Bosses_Succubus_113
+  - first:
+      213: -1655675708989348483
+    second: Bosses_Succubus_114
+  - first:
+      213: 226913852546572746
+    second: Bosses_Succubus_115
+  - first:
+      213: 4670078446404691825
+    second: Bosses_Succubus_116
+  - first:
+      213: 7406997478653478508
+    second: Bosses_Succubus_117
+  - first:
+      213: 8336663614280932588
+    second: Bosses_Succubus_118
+  - first:
+      213: -935156946077809341
+    second: Bosses_Succubus_119
+  - first:
+      213: -5069219307937743118
+    second: Bosses_Succubus_120
+  - first:
+      213: -691237638711985909
+    second: Bosses_Succubus_121
+  - first:
+      213: -6986410649692529717
+    second: Bosses_Succubus_122
+  - first:
+      213: -4517361018072688470
+    second: Bosses_Succubus_123
+  - first:
+      213: 2732050373285875567
+    second: Bosses_Succubus_124
+  - first:
+      213: -1702122160541128923
+    second: Bosses_Succubus_125
+  - first:
+      213: -6878450146289327696
+    second: Bosses_Succubus_126
+  - first:
+      213: -4226050163096046995
+    second: Bosses_Succubus_127
+  - first:
+      213: -5102614207162001086
+    second: Bosses_Succubus_128
+  - first:
+      213: -5794229422606280338
+    second: Bosses_Succubus_129
+  - first:
+      213: 2333118409188560106
+    second: Bosses_Succubus_130
+  - first:
+      213: -3435739772034005807
+    second: Bosses_Succubus_131
+  - first:
+      213: -1028938420870238367
+    second: Bosses_Succubus_132
+  - first:
+      213: -8039060608196879956
+    second: Bosses_Succubus_133
+  - first:
+      213: -2754008192719372469
+    second: Bosses_Succubus_134
+  - first:
+      213: 3560942504201247205
+    second: Bosses_Succubus_135
+  - first:
+      213: 6525244229509131471
+    second: Bosses_Succubus_136
+  - first:
+      213: -4842135015595604286
+    second: Bosses_Succubus_137
+  - first:
+      213: -1459105458341712807
+    second: Bosses_Succubus_138
+  - first:
+      213: 5736039278394613611
+    second: Bosses_Succubus_139
+  - first:
+      213: -5887828060485598334
+    second: Bosses_Succubus_140
+  - first:
+      213: -6444498482936295786
+    second: Bosses_Succubus_141
+  - first:
+      213: -5946103317979405323
+    second: Bosses_Succubus_142
+  - first:
+      213: -4295694794526220246
+    second: Bosses_Succubus_143
+  - first:
+      213: 7160011206185132112
+    second: Bosses_Succubus_144
+  - first:
+      213: -2128570381203881512
+    second: Bosses_Succubus_145
+  - first:
+      213: 7594762851542260805
+    second: Bosses_Succubus_146
+  - first:
+      213: -6507770231356871927
+    second: Bosses_Succubus_147
+  - first:
+      213: -1760073877673115839
+    second: Bosses_Succubus_148
+  - first:
+      213: 707732694340614681
+    second: Bosses_Succubus_149
+  - first:
+      213: 173884012947548101
+    second: Bosses_Succubus_150
+  - first:
+      213: -6562668677519573816
+    second: Bosses_Succubus_151
+  - first:
+      213: -891937877995847121
+    second: Bosses_Succubus_152
+  - first:
+      213: 6886733811492714310
+    second: Bosses_Succubus_153
+  - first:
+      213: 8426554795190985505
+    second: Bosses_Succubus_154
+  - first:
+      213: -7115062281059358190
+    second: Bosses_Succubus_155
+  - first:
+      213: 577238816077046511
+    second: Bosses_Succubus_156
+  - first:
+      213: -8580715648310649038
+    second: Bosses_Succubus_157
+  - first:
+      213: 3064638926565209837
+    second: Bosses_Succubus_158
+  - first:
+      213: -6644327497127684034
+    second: Bosses_Succubus_159
+  - first:
+      213: 8146479674336087473
+    second: Bosses_Succubus_160
+  - first:
+      213: -4138148653391789744
+    second: Bosses_Succubus_161
+  - first:
+      213: 4366928465796964621
+    second: Bosses_Succubus_162
+  - first:
+      213: 7025073656254546447
+    second: Bosses_Succubus_163
+  - first:
+      213: -5413217689078269997
+    second: Bosses_Succubus_164
+  - first:
+      213: 6343567733178079685
+    second: Bosses_Succubus_165
+  - first:
+      213: -4901204227440280463
+    second: Bosses_Succubus_166
+  - first:
+      213: -6162489798676248448
+    second: Bosses_Succubus_167
+  - first:
+      213: 3206186483673897593
+    second: Bosses_Succubus_168
+  - first:
+      213: 7415882264871426375
+    second: Bosses_Succubus_169
+  - first:
+      213: -311387282699275757
+    second: Bosses_Succubus_170
+  - first:
+      213: 7985529539167412574
+    second: Bosses_Succubus_171
+  - first:
+      213: 1513050787243187996
+    second: Bosses_Succubus_172
+  - first:
+      213: -5453807405345939655
+    second: Bosses_Succubus_173
+  - first:
+      213: -1248403444075654624
+    second: Bosses_Succubus_174
+  - first:
+      213: -6653203763577782991
+    second: Bosses_Succubus_175
+  - first:
+      213: 3982170552425813968
+    second: Bosses_Succubus_176
+  - first:
+      213: -7725272371360677906
+    second: Bosses_Succubus_177
+  - first:
+      213: -2524568667164216350
+    second: Bosses_Succubus_178
+  - first:
+      213: -4968278355675077825
+    second: Bosses_Succubus_179
+  - first:
+      213: -7952843630814505600
+    second: Bosses_Succubus_180
+  - first:
+      213: -7153685439216820945
+    second: Bosses_Succubus_181
+  - first:
+      213: -3592338238743357898
+    second: Bosses_Succubus_182
+  - first:
+      213: -6764968132078190282
+    second: Bosses_Succubus_183
+  - first:
+      213: -1786839107681238944
+    second: Bosses_Succubus_184
+  - first:
+      213: -7638602853799501316
+    second: Bosses_Succubus_185
+  - first:
+      213: -4973299404282530098
+    second: Bosses_Succubus_186
+  - first:
+      213: -4299907313931588600
+    second: Bosses_Succubus_187
+  - first:
+      213: 6997461271798129384
+    second: Bosses_Succubus_188
+  - first:
+      213: -1949616671775400967
+    second: Bosses_Succubus_189
+  - first:
+      213: 7162460592982801909
+    second: Bosses_Succubus_190
+  - first:
+      213: -5764920331812833981
+    second: Bosses_Succubus_191
+  - first:
+      213: -6817748626728567833
+    second: Bosses_Succubus_192
+  - first:
+      213: -1835016789721839219
+    second: Bosses_Succubus_193
+  - first:
+      213: -2342324551497018814
+    second: Bosses_Succubus_194
+  - first:
+      213: 4506077538712435709
+    second: Bosses_Succubus_195
+  - first:
+      213: -1250193572827744867
+    second: Bosses_Succubus_196
+  - first:
+      213: 8920311416914118215
+    second: Bosses_Succubus_197
+  - first:
+      213: -5782540696777257630
+    second: Bosses_Succubus_198
+  - first:
+      213: -5913069884032563827
+    second: Bosses_Succubus_199
+  - first:
+      213: 4277097792725602397
+    second: Bosses_Succubus_200
+  - first:
+      213: -8766986955049256470
+    second: Bosses_Succubus_201
+  - first:
+      213: -1036122017715175538
+    second: Bosses_Succubus_202
+  - first:
+      213: -7422450546913109855
+    second: Bosses_Succubus_203
+  - first:
+      213: 8055420438955716304
+    second: Bosses_Succubus_204
+  - first:
+      213: -2832095171819845903
+    second: Bosses_Succubus_205
+  - first:
+      213: 647893773115310460
+    second: Bosses_Succubus_206
+  - first:
+      213: 225943573137873714
+    second: Bosses_Succubus_207
+  - first:
+      213: -910345733841953990
+    second: Bosses_Succubus_208
+  - first:
+      213: 1383822523681218441
+    second: Bosses_Succubus_209
+  - first:
+      213: 8468617963061567617
+    second: Bosses_Succubus_210
+  - first:
+      213: -2095906495722269226
+    second: Bosses_Succubus_211
+  - first:
+      213: 505031313659728424
+    second: Bosses_Succubus_212
+  - first:
+      213: -5737446887632649321
+    second: Bosses_Succubus_213
+  - first:
+      213: -3155395694955634696
+    second: Bosses_Succubus_214
+  - first:
+      213: -1180804980147271777
+    second: Bosses_Succubus_215
+  - first:
+      213: 6855790934378695581
+    second: Bosses_Succubus_216
+  - first:
+      213: -2832704312963227046
+    second: Bosses_Succubus_217
+  - first:
+      213: 4523082085658423233
+    second: Bosses_Succubus_218
+  - first:
+      213: 1260986131983803374
+    second: Bosses_Succubus_219
+  - first:
+      213: 7395126544098842130
+    second: Bosses_Succubus_220
+  - first:
+      213: -5956679427439700987
+    second: Bosses_Succubus_221
+  - first:
+      213: 2474034558222760104
+    second: Bosses_Succubus_222
+  - first:
+      213: -9092427831044279400
+    second: Bosses_Succubus_223
+  - first:
+      213: 2124023657982826913
+    second: Bosses_Succubus_224
+  - first:
+      213: 5781994628536150151
+    second: Bosses_Succubus_225
+  - first:
+      213: 5801370641075683678
+    second: Bosses_Succubus_226
+  - first:
+      213: 1091365172466234805
+    second: Bosses_Succubus_227
+  - first:
+      213: -8796023164980436136
+    second: Bosses_Succubus_228
+  - first:
+      213: 253439360323545020
+    second: Bosses_Succubus_229
+  - first:
+      213: 4401688768034420965
+    second: Bosses_Succubus_230
+  - first:
+      213: 2947981393140717829
+    second: Bosses_Succubus_231
+  - first:
+      213: 8286777396382263170
+    second: Bosses_Succubus_232
+  - first:
+      213: -6309770146360915866
+    second: Bosses_Succubus_233
+  - first:
+      213: -1178036207730091746
+    second: Bosses_Succubus_234
+  - first:
+      213: -6006676091235125940
+    second: Bosses_Succubus_235
+  - first:
+      213: 6307727221325964388
+    second: Bosses_Succubus_236
+  - first:
+      213: -2289701838918006907
+    second: Bosses_Succubus_237
+  - first:
+      213: 7611302490785155927
+    second: Bosses_Succubus_238
+  - first:
+      213: 1891923300420842312
+    second: Bosses_Succubus_239
+  - first:
+      213: 7505293642866916777
+    second: Bosses_Succubus_240
+  - first:
+      213: -4973423929137240067
+    second: Bosses_Succubus_241
+  - first:
+      213: -1402967352689374846
+    second: Bosses_Succubus_242
+  - first:
+      213: -6854293311089166502
+    second: Bosses_Succubus_243
+  - first:
+      213: -1591479141768059475
+    second: Bosses_Succubus_244
+  - first:
+      213: 4816432391914657005
+    second: Bosses_Succubus_245
+  - first:
+      213: 8470404059466086070
+    second: Bosses_Succubus_246
+  - first:
+      213: 2692088631701189511
+    second: Bosses_Succubus_247
+  - first:
+      213: -3028688378897908223
+    second: Bosses_Succubus_248
+  - first:
+      213: 4851136434703929606
+    second: Bosses_Succubus_249
+  - first:
+      213: 1893682900262051276
+    second: Bosses_Succubus_250
+  - first:
+      213: -6692843175018869499
+    second: Bosses_Succubus_251
+  - first:
+      213: -7424835921336794829
+    second: Bosses_Succubus_252
+  - first:
+      213: -3851237328983461777
+    second: Bosses_Succubus_253
+  - first:
+      213: -1799636889564109920
+    second: Bosses_Succubus_254
+  - first:
+      213: -4042815890043993943
+    second: Bosses_Succubus_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bosses_Succubus_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1321
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3cd46fe814e6d0800000000000000
+      internalID: -2962215238434538594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1322
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e41525c544afe0800000000000000
+      internalID: -1178740489431227147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1323
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53f94dbd67ffa80800000000000000
+      internalID: -8430889290877159983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1324
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862b37fff6f552a0800000000000000
+      internalID: -6749216887319878010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1344
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d7d16457da0ee0800000000000000
+      internalID: -1293985185496835704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3b4c4157d05e80800000000000000
+      internalID: -8191810978014610385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d731e1a6c6cf0550800000000000000
+      internalID: 6129336174296250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1344
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bba4170dbd04a980800000000000000
+      internalID: -8528676688814101583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1225
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643459c95c16efb0800000000000000
+      internalID: -4618973195866459033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1226
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba45feef5cd7a080800000000000000
+      internalID: -9176123411155039558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1225
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad70895666162dd0800000000000000
+      internalID: -2511295113368404567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1225
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028a1bf27ca71680800000000000000
+      internalID: -8784362938323795445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1225
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf59c28946751b60800000000000000
+      internalID: 7716203594668138425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1225
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6ef607b2c76040800000000000000
+      internalID: 4640892032380726101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1225
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30631ac77b1763f30800000000000000
+      internalID: 4554953106015729155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1225
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4973b63add1f2c0800000000000000
+      internalID: -4399491667016051550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1225
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab72d08fb0a558a0800000000000000
+      internalID: -6316966157956777041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1225
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11fbb321209b9f0800000000000000
+      internalID: -452328010238979623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1225
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674e6921741cac00800000000000000
+      internalID: 913127300708321124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1225
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb669038495d23d0800000000000000
+      internalID: -3229827191167095839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1225
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f25c3c7dea94430800000000000000
+      internalID: 3767734804997812101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1225
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe524638a7b80bbf0800000000000000
+      internalID: -310595015981914641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_22
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1225
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d4d14c78ff5880800000000000000
+      internalID: -8619897949199740636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1096
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024112dee2b06bc0800000000000000
+      internalID: -3791834147449650682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1098
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c38cd7796f03260800000000000000
+      internalID: 7075426145109818391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8b95c449e75020800000000000000
+      internalID: 2330587813769874957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 975
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a31ee011f17f90800000000000000
+      internalID: -6957514894294669994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 975
+        width: 135
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cfd183b0e2ed300800000000000000
+      internalID: 278710852664556566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 936
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17265c1f519bbfc10800000000000000
+      internalID: 2088466356118053489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 955
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fefbf478f2dc620800000000000000
+      internalID: 2795943201872015247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 979
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e7a321f05b28f0800000000000000
+      internalID: -564268331689319985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 979
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ea2a6073c03990800000000000000
+      internalID: -7408206499439517641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 795
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f84cd60ea72fd0800000000000000
+      internalID: -2366731734671100573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 798
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ccce8f4ac09670800000000000000
+      internalID: 8543550936168842790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 798
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac988a39eb1f73bf0800000000000000
+      internalID: -344541045647177270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 800
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3a05b9266d3510800000000000000
+      internalID: 1530491777692876246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 800
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9684fc91b9db63e0800000000000000
+      internalID: -2059313047726160230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 800
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a70926a5067f090800000000000000
+      internalID: -8000820271683437972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d61b086b6fe17c70800000000000000
+      internalID: 8967211577657464528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_39
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ea0ed203bff0e0800000000000000
+      internalID: -2233870065255913109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_40
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 892
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e3ce2b57f851c0800000000000000
+      internalID: -4514586655440247137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea63979b20db0d80800000000000000
+      internalID: -8283298203972703515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_42
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b174eaf265dd00800000000000000
+      internalID: 996811722246435967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_43
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ba38626a8f6fd0800000000000000
+      internalID: -2346504725576632335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 892
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b7da7ae07781e90800000000000000
+      internalID: -7054757911449470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e484d3952493810800000000000000
+      internalID: 1745499281630449266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_46
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 892
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ab94952f444bde0800000000000000
+      internalID: -1318352983241934272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f22ea741e6dfe00800000000000000
+      internalID: 1080140519878831965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_48
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f54e9fa9f92650800000000000000
+      internalID: 6208768093976916305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_49
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c81c439a22e130800000000000000
+      internalID: 3594482264720326893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240260267b6a68950800000000000000
+      internalID: 6451026822808608834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_51
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab3f473ba97fab0800000000000000
+      internalID: -4974337167855469878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_52
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87768cbe03aa84730800000000000000
+      internalID: 3983620997500135288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 892
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa6f1a5ce4a7e80800000000000000
+      internalID: -8180139162432263623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_54
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc7d316236a06d0800000000000000
+      internalID: -3023495184633049315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_55
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ea615c8816d020800000000000000
+      internalID: 2366105645170222659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_56
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585259d60aa34170800000000000000
+      internalID: 8161553896118048859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1780b304b186ea3b0800000000000000
+      internalID: -5499343628721780623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_58
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b88726154691e80800000000000000
+      internalID: -8207418545198822551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfffb0b869e6b3c0800000000000000
+      internalID: -4344028154701021226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f2abe0d25d4440800000000000000
+      internalID: 4921681025045821328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_61
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349de8ab71f3acab0800000000000000
+      internalID: -4987104266212681405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_62
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa49df9b5ed585a90800000000000000
+      internalID: -7325001552668814166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_63
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 878
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd87126212f5090800000000000000
+      internalID: -8043673961806372968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f007b34718b740800000000000000
+      internalID: 5167906152008185454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_65
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15904d5223d08cca0800000000000000
+      internalID: -5996528394809636527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_66
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd14f96048dfc1e0800000000000000
+      internalID: -2175282323829547556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_67
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92702d781d7b050800000000000000
+      internalID: 5816347825046759885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_68
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7d26ead30112e0800000000000000
+      internalID: -2156938507834262288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df86d10fd35a90b0800000000000000
+      internalID: -5721168159347142703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_70
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff621c96b86660e0800000000000000
+      internalID: -2277017428077416455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_71
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ce6346a2b81b30800000000000000
+      internalID: 4258349874844452459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_72
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db285f5988dd0a480800000000000000
+      internalID: -8889862085728173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_73
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 878
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b4311a59b591b0800000000000000
+      internalID: -5650406360979557922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 819
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20307896a54fc0990800000000000000
+      internalID: -7418285817031359742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 818
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb1b2bec2902930800000000000000
+      internalID: 4116451475875544286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_76
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 863
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f7e30577c9d690800000000000000
+      internalID: -7576805592683515702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_77
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc0d0a2d3cde390800000000000000
+      internalID: -7787352871245132551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_78
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80dff53820b80e80800000000000000
+      internalID: -8212120233758961526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9ce583f1011d00800000000000000
+      internalID: 941535942532700695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_80
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc2150ca41bbe60800000000000000
+      internalID: 7978993893869014959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_81
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6dbb83542b31d0800000000000000
+      internalID: -3370059954911352203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de625967711d8c0800000000000000
+      internalID: -3976371197915501303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 817
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa71bc129afae40800000000000000
+      internalID: 5669936418489085898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_84
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 841
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f2bacbe2c77950800000000000000
+      internalID: 6446835709577982269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_85
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 842
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae8313739ded7e50800000000000000
+      internalID: 6808859429200694954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_86
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 830
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a814b414f86960800000000000000
+      internalID: 7595589141318379545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_87
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 826
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd44dc889900430800000000000000
+      internalID: 3747163702810697555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 681
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85d1520d6cd7690800000000000000
+      internalID: -7602701998653351707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 724
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400b978af667ee50800000000000000
+      internalID: 6838547785388326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_90
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2205ed1045b2760800000000000000
+      internalID: 7434127976906629869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_91
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 724
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc2c00c5c9a94d0800000000000000
+      internalID: -3127015072291697793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ac7132f8df1390800000000000000
+      internalID: -7845313491132176725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d128feeb24a190800000000000000
+      internalID: -7952182736664274645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83581847574535340800000000000000
+      internalID: 4851314087050708280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 724
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed482aa9f114880800000000000000
+      internalID: -8628580662053118297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b8322b68daf650800000000000000
+      internalID: 6267559786086709563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 724
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17871d293e74a50800000000000000
+      internalID: 6505418406479032768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ae96f66a8fd7b0800000000000000
+      internalID: -5197283270133374755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_99
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 724
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e55b42cc8a7fa70800000000000000
+      internalID: 8860736386617400931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 724
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333409075a0220600800000000000000
+      internalID: 432944409111184179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 724
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda6e3d737ef5160800000000000000
+      internalID: 7016580971430850017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b594e4cab8a32f0800000000000000
+      internalID: -992327195717706880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_103
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0082440beb657980800000000000000
+      internalID: -8541802461105324021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_104
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 724
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd77358f75cc300800000000000000
+      internalID: 273690401426627963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038f17ff9f9a0e70800000000000000
+      internalID: 9082247107940680462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 724
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3639c43efc4c46c0800000000000000
+      internalID: -4157863701278804418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_107
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 723
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea103de51151420800000000000000
+      internalID: 2600003458841030306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbd5b7312ee0bd0800000000000000
+      internalID: -2661941756427387517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_109
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f9aa54b9420450800000000000000
+      internalID: 6053481888103397496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_110
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 724
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030a961c45085b00800000000000000
+      internalID: 817409156722590465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_111
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8d6d8ad6fbf3d0800000000000000
+      internalID: -3171670094016312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 724
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da8868f6c4b1170800000000000000
+      internalID: 8150191992539229516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 724
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b174a87d20b3883e0800000000000000
+      internalID: -2051324746875123941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_114
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75627ef6bbd509e0800000000000000
+      internalID: -1655675708989348483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac167a752f8262300800000000000000
+      internalID: 226913852546572746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 724
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177e8279a937fc040800000000000000
+      internalID: 4670078446404691825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_117
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ca5f76f0fac660800000000000000
+      internalID: 7406997478653478508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec932d3367c1b370800000000000000
+      internalID: 8336663614280932588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_119
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450bc356b7a503f0800000000000000
+      internalID: -935156946077809341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 710
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb1d5b5e386a9b0800000000000000
+      internalID: -5069219307937743118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 709
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b093139a70b3866f0800000000000000
+      internalID: -691237638711985909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 598
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb121a97884b0f90800000000000000
+      internalID: -6986410649692529717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 575
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8949b861c1f41c0800000000000000
+      internalID: -4517361018072688470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 574
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8d28e6513ae520800000000000000
+      internalID: 2732050373285875567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_125
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 579
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52720a8c9e8d068e0800000000000000
+      internalID: -1702122160541128923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_126
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 577
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e0391906da80a0800000000000000
+      internalID: -6878450146289327696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_127
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 577
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bda964cd0a55c0800000000000000
+      internalID: -4226050163096046995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_128
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 581
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2495f34d96fdf29b0800000000000000
+      internalID: -5102614207162001086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_129
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 580
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699f6e0a03c69fa0800000000000000
+      internalID: -5794229422606280338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_130
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 587
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeccb9ee4d6e06020800000000000000
+      internalID: 2333118409188560106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_131
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 607
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44b3371ecc150d0800000000000000
+      internalID: -3435739772034005807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_132
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 598
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f274035f978b1f0800000000000000
+      internalID: -1028938420870238367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_133
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 596
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9d69838f48f6090800000000000000
+      internalID: -8039060608196879956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_134
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 626
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f327cd32cc7c9d0800000000000000
+      internalID: -2754008192719372469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_135
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 619
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9518447520b6130800000000000000
+      internalID: 3560942504201247205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 454
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2f84fd035e8a50800000000000000
+      internalID: 6525244229509131471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 455
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c681f8abd74dccb0800000000000000
+      internalID: -4842135015595604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_138
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 467
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c65b9f05730cbe0800000000000000
+      internalID: -1459105458341712807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 468
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f166635518a9f40800000000000000
+      internalID: 5736039278394613611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 476
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283cd24f29b3a4ea0800000000000000
+      internalID: -5887828060485598334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_141
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 470
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec90136ca8096a0800000000000000
+      internalID: -6444498482936295786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_142
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 474
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e01e39823b7da0800000000000000
+      internalID: -5946103317979405323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_143
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 470
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2025cc0850a264c0800000000000000
+      internalID: -4295694794526220246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_144
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 481
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502b74b1487d5360800000000000000
+      internalID: 7160011206185132112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_145
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 465
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1cce4148cc572e0800000000000000
+      internalID: -2128570381203881512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_146
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 476
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c528f1394066960800000000000000
+      internalID: 7594762851542260805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_147
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 474
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bac184471cfa5a0800000000000000
+      internalID: -6507770231356871927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_148
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 473
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f79de2226f297e0800000000000000
+      internalID: -1760073877673115839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_149
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 462
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3a12c22f52d900800000000000000
+      internalID: 707732694340614681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_150
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 461
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7abd7a692c96200800000000000000
+      internalID: 173884012947548101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfcd9bb97bce4a0800000000000000
+      internalID: -6562668677519573816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_152
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228754c9333f93f0800000000000000
+      internalID: -891937877995847121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_153
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f1b00ae7929f50800000000000000
+      internalID: 6886733811492714310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_154
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12329bfb0f221f470800000000000000
+      internalID: 8426554795190985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_155
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a2da67d88324d90800000000000000
+      internalID: -7115062281059358190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_156
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 438
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e6d615a3c20800800000000000000
+      internalID: 577238816077046511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_157
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 438
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fdec7949c2be880800000000000000
+      internalID: -8580715648310649038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_158
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f0c6ddd8c78a20800000000000000
+      internalID: 3064638926565209837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_159
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381852385b9ac3a0800000000000000
+      internalID: -6644327497127684034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_160
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 438
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0eb61a1c1e0170800000000000000
+      internalID: 8146479674336087473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_161
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 438
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05142de79b75296c0800000000000000
+      internalID: -4138148653391789744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_162
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 438
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ae5b7d427a9c30800000000000000
+      internalID: 4366928465796964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_163
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c10a15431e7160800000000000000
+      internalID: 7025073656254546447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_164
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 438
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f0a6313360e4b0800000000000000
+      internalID: -5413217689078269997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_165
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c995b06e31e80850800000000000000
+      internalID: 6343567733178079685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_166
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c77cb09bc6bfbb0800000000000000
+      internalID: -4901204227440280463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_167
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 438
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880fe9ad207a7aa0800000000000000
+      internalID: -6162489798676248448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_168
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a9a0bae99ae7c20800000000000000
+      internalID: 3206186483673897593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_169
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d7cdf0a18ae660800000000000000
+      internalID: 7415882264871426375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_170
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b22b8aeabdabf0800000000000000
+      internalID: -311387282699275757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_171
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5166758ecc42de60800000000000000
+      internalID: 7985529539167412574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_172
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f51ccacaf6ff410800000000000000
+      internalID: 1513050787243187996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_173
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd5f27f0f2054b0800000000000000
+      internalID: -5453807405345939655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_174
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0221f739ea7ccaee0800000000000000
+      internalID: -1248403444075654624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_175
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d77ad5d621ba3a0800000000000000
+      internalID: -6653203763577782991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79c5cd403834730800000000000000
+      internalID: 3982170552425813968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_177
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 438
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef38ef55b15ac490800000000000000
+      internalID: -7725272371360677906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_178
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e378964c2ee6fcd0800000000000000
+      internalID: -2524568667164216350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_179
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a9b898212d0bb0800000000000000
+      internalID: -4968278355675077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_180
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d21f8ad2d1a190800000000000000
+      internalID: -7952843630814505600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_181
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 438
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd890bef009bc90800000000000000
+      internalID: -7153685439216820945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_182
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63656a6a763752ec0800000000000000
+      internalID: -3592338238743357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_183
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 444
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63144a283510e12a0800000000000000
+      internalID: -6764968132078190282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_184
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 444
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06042e37c4fd337e0800000000000000
+      internalID: -1786839107681238944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_185
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 444
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1eefeec2b3ef590800000000000000
+      internalID: -7638602853799501316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_186
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f31e9a8a4bfab0800000000000000
+      internalID: -4973299404282530098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_187
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce0027419a354c0800000000000000
+      internalID: -4299907313931588600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_188
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 444
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a41bd3f9fb1160800000000000000
+      internalID: 6997461271798129384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_189
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 444
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd5ae67f191f4e0800000000000000
+      internalID: -1949616671775400967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 444
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd397206fb266360800000000000000
+      internalID: 7162460592982801909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_191
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457ed78083eeffa0800000000000000
+      internalID: -5764920331812833981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_192
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 444
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbfe7febd7261a0800000000000000
+      internalID: -6817748626728567833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_193
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 444
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8980cbb3f5b886e0800000000000000
+      internalID: -1835016789721839219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_194
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24218570b346e7fd0800000000000000
+      internalID: -2342324551497018814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_195
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3251b5adc88e30800000000000000
+      internalID: 4506077538712435709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_196
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95302fb19b66aee0800000000000000
+      internalID: -1250193572827744867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_197
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746070bc8ff4bcb70800000000000000
+      internalID: 8920311416914118215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_198
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0a5d9fd940cfa0800000000000000
+      internalID: -5782540696777257630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_199
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85cd2ee44e80fda0800000000000000
+      internalID: -5913069884032563827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_200
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50540d08cd4b5b30800000000000000
+      internalID: 4277097792725602397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_201
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93ec950d7655680800000000000000
+      internalID: -8766986955049256470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_202
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f3026b384fe91f0800000000000000
+      internalID: -1036122017715175538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_203
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8175cad882ef890800000000000000
+      internalID: -7422450546913109855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_204
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6064b53a9acf60800000000000000
+      internalID: 8055420438955716304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64491427062b8d0800000000000000
+      internalID: -2832095171819845903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_206
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c9b634f7cdf800800000000000000
+      internalID: 647893773115310460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_207
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5a209b76b22300800000000000000
+      internalID: 225943573137873714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_208
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bde87d06dcd53f0800000000000000
+      internalID: -910345733841953990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_209
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1434e043543310800000000000000
+      internalID: 1383822523681218441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_210
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e6c23b23968570800000000000000
+      internalID: 8468617963061567617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_211
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d55a009528d9e2e0800000000000000
+      internalID: -2095906495722269226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_212
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221323dd4b320700800000000000000
+      internalID: 505031313659728424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_213
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934cf8347e7060b0800000000000000
+      internalID: -5737446887632649321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_214
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff5f5c5558c534d0800000000000000
+      internalID: -3155395694955634696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_215
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974f417020fc9fe0800000000000000
+      internalID: -1180804980147271777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_216
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4cf10889a42f50800000000000000
+      internalID: 6855790934378695581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_217
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522c188f6630b8d0800000000000000
+      internalID: -2832704312963227046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_218
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6a9d413735ce30800000000000000
+      internalID: 4523082085658423233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_219
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 444
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a69fb43cef7110800000000000000
+      internalID: 1260986131983803374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_220
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d21a2964c0a660800000000000000
+      internalID: 7395126544098842130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_221
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504549ede9f955da0800000000000000
+      internalID: -5956679427439700987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_222
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a878ec9259855220800000000000000
+      internalID: 2474034558222760104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_223
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893fab8bf0531d180800000000000000
+      internalID: -9092427831044279400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 424
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9979c634c0a7d10800000000000000
+      internalID: 2124023657982826913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_225
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 424
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7882d17fa75cd3050800000000000000
+      internalID: 5781994628536150151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_226
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 424
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5142bf6cdb928050800000000000000
+      internalID: 5801370641075683678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_227
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5351197de452f00800000000000000
+      internalID: 1091365172466234805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_228
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 424
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853eb37e88f3ee580800000000000000
+      internalID: -8796023164980436136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_229
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 424
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ef2461c5648300800000000000000
+      internalID: 253439360323545020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b4860d90f51d30800000000000000
+      internalID: 4401688768034420965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_231
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 315
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5091d9e357559e820800000000000000
+      internalID: 2947981393140717829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_232
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e914032c800370800000000000000
+      internalID: 8286777396382263170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_233
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 293
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6680bc38b713f68a0800000000000000
+      internalID: -6309770146360915866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_234
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 293
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1913b18f46c6afe0800000000000000
+      internalID: -1178036207730091746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_235
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 293
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4539157beff3aca0800000000000000
+      internalID: -6006676091235125940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_236
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 297
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464223fec7c898750800000000000000
+      internalID: 6307727221325964388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_237
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 287
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cbb11f485930e0800000000000000
+      internalID: -2289701838918006907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_238
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 290
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8b49f947c0a960800000000000000
+      internalID: 7611302490785155927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_239
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437ed7c736714a10800000000000000
+      internalID: 1891923300420842312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_240
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad741eadc8282860800000000000000
+      internalID: 7505293642866916777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_241
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e85a6949dafab0800000000000000
+      internalID: -4973423929137240067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_242
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 170
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ca7f30a8a78ce0800000000000000
+      internalID: -1402967352689374846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_243
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b1369c88a0e0a0800000000000000
+      internalID: -6854293311089166502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_244
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a87f072ee9e9e0800000000000000
+      internalID: -1591479141768059475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_245
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de412ccedb767d240800000000000000
+      internalID: 4816432391914657005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_246
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 173
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b08c2d9bec8570800000000000000
+      internalID: 8470404059466086070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_247
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 170
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ba64e8583c5520800000000000000
+      internalID: 2692088631701189511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_248
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 178
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ebf6057ffe7f5d0800000000000000
+      internalID: -3028688378897908223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_249
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6019b7b82e2b25340800000000000000
+      internalID: 4851136434703929606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_250
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd95b8096b74a10800000000000000
+      internalID: 1893682900262051276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4a9fa79e3e13a0800000000000000
+      internalID: -6692843175018869499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_252
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 59
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310929611fa5f890800000000000000
+      internalID: -7424835921336794829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_253
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 59
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607734dd08ad8ac0800000000000000
+      internalID: -3851237328983461777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_254
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 59
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a7d8a8c76607e0800000000000000
+      internalID: -1799636889564109920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosses_Succubus_255
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 59
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08f952e5805e7c0800000000000000
+      internalID: -4042815890043993943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bosses_Succubus_0: -2962215238434538594
+      Bosses_Succubus_1: -1178740489431227147
+      Bosses_Succubus_10: -2511295113368404567
+      Bosses_Succubus_100: 432944409111184179
+      Bosses_Succubus_101: 7016580971430850017
+      Bosses_Succubus_102: -992327195717706880
+      Bosses_Succubus_103: -8541802461105324021
+      Bosses_Succubus_104: 273690401426627963
+      Bosses_Succubus_105: 9082247107940680462
+      Bosses_Succubus_106: -4157863701278804418
+      Bosses_Succubus_107: 2600003458841030306
+      Bosses_Succubus_108: -2661941756427387517
+      Bosses_Succubus_109: 6053481888103397496
+      Bosses_Succubus_11: -8784362938323795445
+      Bosses_Succubus_110: 817409156722590465
+      Bosses_Succubus_111: -3171670094016312152
+      Bosses_Succubus_112: 8150191992539229516
+      Bosses_Succubus_113: -2051324746875123941
+      Bosses_Succubus_114: -1655675708989348483
+      Bosses_Succubus_115: 226913852546572746
+      Bosses_Succubus_116: 4670078446404691825
+      Bosses_Succubus_117: 7406997478653478508
+      Bosses_Succubus_118: 8336663614280932588
+      Bosses_Succubus_119: -935156946077809341
+      Bosses_Succubus_12: 7716203594668138425
+      Bosses_Succubus_120: -5069219307937743118
+      Bosses_Succubus_121: -691237638711985909
+      Bosses_Succubus_122: -6986410649692529717
+      Bosses_Succubus_123: -4517361018072688470
+      Bosses_Succubus_124: 2732050373285875567
+      Bosses_Succubus_125: -1702122160541128923
+      Bosses_Succubus_126: -6878450146289327696
+      Bosses_Succubus_127: -4226050163096046995
+      Bosses_Succubus_128: -5102614207162001086
+      Bosses_Succubus_129: -5794229422606280338
+      Bosses_Succubus_13: 4640892032380726101
+      Bosses_Succubus_130: 2333118409188560106
+      Bosses_Succubus_131: -3435739772034005807
+      Bosses_Succubus_132: -1028938420870238367
+      Bosses_Succubus_133: -8039060608196879956
+      Bosses_Succubus_134: -2754008192719372469
+      Bosses_Succubus_135: 3560942504201247205
+      Bosses_Succubus_136: 6525244229509131471
+      Bosses_Succubus_137: -4842135015595604286
+      Bosses_Succubus_138: -1459105458341712807
+      Bosses_Succubus_139: 5736039278394613611
+      Bosses_Succubus_14: 4554953106015729155
+      Bosses_Succubus_140: -5887828060485598334
+      Bosses_Succubus_141: -6444498482936295786
+      Bosses_Succubus_142: -5946103317979405323
+      Bosses_Succubus_143: -4295694794526220246
+      Bosses_Succubus_144: 7160011206185132112
+      Bosses_Succubus_145: -2128570381203881512
+      Bosses_Succubus_146: 7594762851542260805
+      Bosses_Succubus_147: -6507770231356871927
+      Bosses_Succubus_148: -1760073877673115839
+      Bosses_Succubus_149: 707732694340614681
+      Bosses_Succubus_15: -4399491667016051550
+      Bosses_Succubus_150: 173884012947548101
+      Bosses_Succubus_151: -6562668677519573816
+      Bosses_Succubus_152: -891937877995847121
+      Bosses_Succubus_153: 6886733811492714310
+      Bosses_Succubus_154: 8426554795190985505
+      Bosses_Succubus_155: -7115062281059358190
+      Bosses_Succubus_156: 577238816077046511
+      Bosses_Succubus_157: -8580715648310649038
+      Bosses_Succubus_158: 3064638926565209837
+      Bosses_Succubus_159: -6644327497127684034
+      Bosses_Succubus_16: -6316966157956777041
+      Bosses_Succubus_160: 8146479674336087473
+      Bosses_Succubus_161: -4138148653391789744
+      Bosses_Succubus_162: 4366928465796964621
+      Bosses_Succubus_163: 7025073656254546447
+      Bosses_Succubus_164: -5413217689078269997
+      Bosses_Succubus_165: 6343567733178079685
+      Bosses_Succubus_166: -4901204227440280463
+      Bosses_Succubus_167: -6162489798676248448
+      Bosses_Succubus_168: 3206186483673897593
+      Bosses_Succubus_169: 7415882264871426375
+      Bosses_Succubus_17: -452328010238979623
+      Bosses_Succubus_170: -311387282699275757
+      Bosses_Succubus_171: 7985529539167412574
+      Bosses_Succubus_172: 1513050787243187996
+      Bosses_Succubus_173: -5453807405345939655
+      Bosses_Succubus_174: -1248403444075654624
+      Bosses_Succubus_175: -6653203763577782991
+      Bosses_Succubus_176: 3982170552425813968
+      Bosses_Succubus_177: -7725272371360677906
+      Bosses_Succubus_178: -2524568667164216350
+      Bosses_Succubus_179: -4968278355675077825
+      Bosses_Succubus_18: 913127300708321124
+      Bosses_Succubus_180: -7952843630814505600
+      Bosses_Succubus_181: -7153685439216820945
+      Bosses_Succubus_182: -3592338238743357898
+      Bosses_Succubus_183: -6764968132078190282
+      Bosses_Succubus_184: -1786839107681238944
+      Bosses_Succubus_185: -7638602853799501316
+      Bosses_Succubus_186: -4973299404282530098
+      Bosses_Succubus_187: -4299907313931588600
+      Bosses_Succubus_188: 6997461271798129384
+      Bosses_Succubus_189: -1949616671775400967
+      Bosses_Succubus_19: -3229827191167095839
+      Bosses_Succubus_190: 7162460592982801909
+      Bosses_Succubus_191: -5764920331812833981
+      Bosses_Succubus_192: -6817748626728567833
+      Bosses_Succubus_193: -1835016789721839219
+      Bosses_Succubus_194: -2342324551497018814
+      Bosses_Succubus_195: 4506077538712435709
+      Bosses_Succubus_196: -1250193572827744867
+      Bosses_Succubus_197: 8920311416914118215
+      Bosses_Succubus_198: -5782540696777257630
+      Bosses_Succubus_199: -5913069884032563827
+      Bosses_Succubus_2: -8430889290877159983
+      Bosses_Succubus_20: 3767734804997812101
+      Bosses_Succubus_200: 4277097792725602397
+      Bosses_Succubus_201: -8766986955049256470
+      Bosses_Succubus_202: -1036122017715175538
+      Bosses_Succubus_203: -7422450546913109855
+      Bosses_Succubus_204: 8055420438955716304
+      Bosses_Succubus_205: -2832095171819845903
+      Bosses_Succubus_206: 647893773115310460
+      Bosses_Succubus_207: 225943573137873714
+      Bosses_Succubus_208: -910345733841953990
+      Bosses_Succubus_209: 1383822523681218441
+      Bosses_Succubus_21: -310595015981914641
+      Bosses_Succubus_210: 8468617963061567617
+      Bosses_Succubus_211: -2095906495722269226
+      Bosses_Succubus_212: 505031313659728424
+      Bosses_Succubus_213: -5737446887632649321
+      Bosses_Succubus_214: -3155395694955634696
+      Bosses_Succubus_215: -1180804980147271777
+      Bosses_Succubus_216: 6855790934378695581
+      Bosses_Succubus_217: -2832704312963227046
+      Bosses_Succubus_218: 4523082085658423233
+      Bosses_Succubus_219: 1260986131983803374
+      Bosses_Succubus_22: -8619897949199740636
+      Bosses_Succubus_220: 7395126544098842130
+      Bosses_Succubus_221: -5956679427439700987
+      Bosses_Succubus_222: 2474034558222760104
+      Bosses_Succubus_223: -9092427831044279400
+      Bosses_Succubus_224: 2124023657982826913
+      Bosses_Succubus_225: 5781994628536150151
+      Bosses_Succubus_226: 5801370641075683678
+      Bosses_Succubus_227: 1091365172466234805
+      Bosses_Succubus_228: -8796023164980436136
+      Bosses_Succubus_229: 253439360323545020
+      Bosses_Succubus_23: -3791834147449650682
+      Bosses_Succubus_230: 4401688768034420965
+      Bosses_Succubus_231: 2947981393140717829
+      Bosses_Succubus_232: 8286777396382263170
+      Bosses_Succubus_233: -6309770146360915866
+      Bosses_Succubus_234: -1178036207730091746
+      Bosses_Succubus_235: -6006676091235125940
+      Bosses_Succubus_236: 6307727221325964388
+      Bosses_Succubus_237: -2289701838918006907
+      Bosses_Succubus_238: 7611302490785155927
+      Bosses_Succubus_239: 1891923300420842312
+      Bosses_Succubus_24: 7075426145109818391
+      Bosses_Succubus_240: 7505293642866916777
+      Bosses_Succubus_241: -4973423929137240067
+      Bosses_Succubus_242: -1402967352689374846
+      Bosses_Succubus_243: -6854293311089166502
+      Bosses_Succubus_244: -1591479141768059475
+      Bosses_Succubus_245: 4816432391914657005
+      Bosses_Succubus_246: 8470404059466086070
+      Bosses_Succubus_247: 2692088631701189511
+      Bosses_Succubus_248: -3028688378897908223
+      Bosses_Succubus_249: 4851136434703929606
+      Bosses_Succubus_25: 2330587813769874957
+      Bosses_Succubus_250: 1893682900262051276
+      Bosses_Succubus_251: -6692843175018869499
+      Bosses_Succubus_252: -7424835921336794829
+      Bosses_Succubus_253: -3851237328983461777
+      Bosses_Succubus_254: -1799636889564109920
+      Bosses_Succubus_255: -4042815890043993943
+      Bosses_Succubus_26: -6957514894294669994
+      Bosses_Succubus_27: 278710852664556566
+      Bosses_Succubus_28: 2088466356118053489
+      Bosses_Succubus_29: 2795943201872015247
+      Bosses_Succubus_3: -6749216887319878010
+      Bosses_Succubus_30: -564268331689319985
+      Bosses_Succubus_31: -7408206499439517641
+      Bosses_Succubus_32: -2366731734671100573
+      Bosses_Succubus_33: 8543550936168842790
+      Bosses_Succubus_34: -344541045647177270
+      Bosses_Succubus_35: 1530491777692876246
+      Bosses_Succubus_36: -2059313047726160230
+      Bosses_Succubus_37: -8000820271683437972
+      Bosses_Succubus_38: 8967211577657464528
+      Bosses_Succubus_39: -2233870065255913109
+      Bosses_Succubus_4: -1293985185496835704
+      Bosses_Succubus_40: -4514586655440247137
+      Bosses_Succubus_41: -8283298203972703515
+      Bosses_Succubus_42: 996811722246435967
+      Bosses_Succubus_43: -2346504725576632335
+      Bosses_Succubus_44: -7054757911449470137
+      Bosses_Succubus_45: 1745499281630449266
+      Bosses_Succubus_46: -1318352983241934272
+      Bosses_Succubus_47: 1080140519878831965
+      Bosses_Succubus_48: 6208768093976916305
+      Bosses_Succubus_49: 3594482264720326893
+      Bosses_Succubus_5: -8191810978014610385
+      Bosses_Succubus_50: 6451026822808608834
+      Bosses_Succubus_51: -4974337167855469878
+      Bosses_Succubus_52: 3983620997500135288
+      Bosses_Succubus_53: -8180139162432263623
+      Bosses_Succubus_54: -3023495184633049315
+      Bosses_Succubus_55: 2366105645170222659
+      Bosses_Succubus_56: 8161553896118048859
+      Bosses_Succubus_57: -5499343628721780623
+      Bosses_Succubus_58: -8207418545198822551
+      Bosses_Succubus_59: -4344028154701021226
+      Bosses_Succubus_6: 6129336174296250321
+      Bosses_Succubus_60: 4921681025045821328
+      Bosses_Succubus_61: -4987104266212681405
+      Bosses_Succubus_62: -7325001552668814166
+      Bosses_Succubus_63: -8043673961806372968
+      Bosses_Succubus_64: 5167906152008185454
+      Bosses_Succubus_65: -5996528394809636527
+      Bosses_Succubus_66: -2175282323829547556
+      Bosses_Succubus_67: 5816347825046759885
+      Bosses_Succubus_68: -2156938507834262288
+      Bosses_Succubus_69: -5721168159347142703
+      Bosses_Succubus_7: -8528676688814101583
+      Bosses_Succubus_70: -2277017428077416455
+      Bosses_Succubus_71: 4258349874844452459
+      Bosses_Succubus_72: -8889862085728173379
+      Bosses_Succubus_73: -5650406360979557922
+      Bosses_Succubus_74: -7418285817031359742
+      Bosses_Succubus_75: 4116451475875544286
+      Bosses_Succubus_76: -7576805592683515702
+      Bosses_Succubus_77: -7787352871245132551
+      Bosses_Succubus_78: -8212120233758961526
+      Bosses_Succubus_79: 941535942532700695
+      Bosses_Succubus_8: -4618973195866459033
+      Bosses_Succubus_80: 7978993893869014959
+      Bosses_Succubus_81: -3370059954911352203
+      Bosses_Succubus_82: -3976371197915501303
+      Bosses_Succubus_83: 5669936418489085898
+      Bosses_Succubus_84: 6446835709577982269
+      Bosses_Succubus_85: 6808859429200694954
+      Bosses_Succubus_86: 7595589141318379545
+      Bosses_Succubus_87: 3747163702810697555
+      Bosses_Succubus_88: -7602701998653351707
+      Bosses_Succubus_89: 6838547785388326980
+      Bosses_Succubus_9: -9176123411155039558
+      Bosses_Succubus_90: 7434127976906629869
+      Bosses_Succubus_91: -3127015072291697793
+      Bosses_Succubus_92: -7845313491132176725
+      Bosses_Succubus_93: -7952182736664274645
+      Bosses_Succubus_94: 4851314087050708280
+      Bosses_Succubus_95: -8628580662053118297
+      Bosses_Succubus_96: 6267559786086709563
+      Bosses_Succubus_97: 6505418406479032768
+      Bosses_Succubus_98: -5197283270133374755
+      Bosses_Succubus_99: 8860736386617400931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
