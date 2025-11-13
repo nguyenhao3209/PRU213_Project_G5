@@ -29,45 +29,47 @@ public class Projectile : MonoBehaviour
         if (lifetime > 5f) gameObject.SetActive(false);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+   private void OnTriggerEnter2D(Collider2D collision)
+{
+    hit = true;
+    boxCollider.enabled = false;
+    anim.SetTrigger("explode");
+
+    if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
     {
-        hit = true;
-        boxCollider.enabled = false;
-        anim.SetTrigger("explode");
+        // 🧪 Trường hợp đặc biệt SlimeGirl (LV4)
+        SlimeGirl slime = collision.GetComponent<SlimeGirl>();
+        if (slime != null)
+        {
+            slime.TakeDamage(damage);
+            Invoke(nameof(Deactivate), 0.3f);
+            return;
+        }
 
-        // ✅ Gây damage cho các loại đối tượng khác nhau tùy theo level
-
-        // Trường hợp Level 3 (Enemy, Boss cổ điển)
+        // 🧱 Level 3 (enemy cổ điển dùng Health)
         if (collision.CompareTag("Enemy"))
             collision.GetComponent<Health>()?.TakeDamage(damage);
 
+        // 🧱 Level 3 Boss
         if (collision.CompareTag("Boss"))
             collision.GetComponent<BossHealth>()?.TakeDamage(damage);
 
-        // Trường hợp Level 4 trở đi (đa dạng đối tượng có Health hoặc AI riêng)
-        if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
-        {
-            // SlimeGirl đặc biệt
-            SlimeGirl slime = collision.GetComponent<SlimeGirl>();
-            if (slime != null)
-            {
-                slime.TakeDamage(damage);
-                return;
-            }
+        // 🧱 Level 4 trở đi: đối tượng có Health hoặc AI riêng
 
-            // Gây damage cho bất kỳ object nào có Health
-            Health targetHealth = collision.GetComponent<Health>();
-            if (targetHealth != null)
-            {
-                targetHealth.TakeDamage(damage);
-            }
+        // Có Health → dùng Health
+        Health targetHealth = collision.GetComponent<Health>();
+        if (targetHealth != null)
+            targetHealth.TakeDamage(damage);
 
-            // EnemyAI2D (nếu có)
-            EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
-            if (enemy != null)
-                enemy.TakeDamage(damage);
-        }
+        // Có AI EnemyAI2D → damage AI
+        EnemyAI2D enemyAI = collision.GetComponent<EnemyAI2D>();
+        if (enemyAI != null)
+            enemyAI.TakeDamage(damage);
     }
+
+    // 🔥 Tắt viên đạn sau hiệu ứng nổ
+    Invoke(nameof(Deactivate), 0.3f);
+}
 
     public void SetDirection(float _direction)
     {
