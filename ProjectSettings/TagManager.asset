@@ -17,11 +17,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Boss
   - 
   - 
   - 
@@ -45,16 +45,16 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
+  - name: Background
     uniqueID: 2641721325
     locked: 0
-  - name: Background
+  - name: Foreground
     uniqueID: 26142801
     locked: 0
-  - name: Enemy
+  - name: Player
     uniqueID: 3698240713
     locked: 0
-  - name: Player
+  - name: Ground
     uniqueID: 1459043663
     locked: 0
   - name: Boss
