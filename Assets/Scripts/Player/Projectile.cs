@@ -38,7 +38,7 @@ public class Projectile : MonoBehaviour
         if (collision.CompareTag("Boss"))
         {
             // Gây sát thương cho Boss
-            BossController boss = collision.GetComponent<BossController>();
+            BossController_LV6 boss = collision.GetComponent<BossController_LV6>();
             if (boss != null)
                 boss.TakeDamage(damage);
 

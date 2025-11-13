@@ -11540,11 +11540,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5744787399789426541, guid: 502dde38e89601d4691e251dd8e37130, type: 3}
   m_PrefabInstance: {fileID: 1791631850}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &621640058 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4656772541957552943, guid: b16ac1c23537dde4ba3a4c3987ced0ed, type: 3}
-  m_PrefabInstance: {fileID: 789583847}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &623688006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15257,10 +15252,10 @@ PrefabInstance:
       addedObject: {fileID: 789583851}
     - targetCorrespondingSourceObject: {fileID: -8653719598885068355, guid: b16ac1c23537dde4ba3a4c3987ced0ed, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 789583852}
+      addedObject: {fileID: 789583853}
     - targetCorrespondingSourceObject: {fileID: -8653719598885068355, guid: b16ac1c23537dde4ba3a4c3987ced0ed, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 789583853}
+      addedObject: {fileID: 789583854}
   m_SourcePrefab: {fileID: 4843985084834002234, guid: b16ac1c23537dde4ba3a4c3987ced0ed, type: 3}
 --- !u!4 &789583848 stripped
 Transform:
@@ -15398,28 +15393,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &789583852
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+--- !u!4 &789583852 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1935589312980725053, guid: b16ac1c23537dde4ba3a4c3987ced0ed, type: 3}
+  m_PrefabInstance: {fileID: 789583847}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 734356601}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43c69a408730a2f4f9ba3d12b983d70d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BossController
-  moveSpeed: 2
-  detectionRange: 8
-  attackRange: 5
-  attackCooldown: 2
-  maxHealth: 10
-  bulletPrefab: {fileID: 3145169693976634165, guid: ba3e54fce173b0642a3829d08a18f5f8, type: 3}
-  firePoint: {fileID: 621640058}
-  healthBar: {fileID: 898295952}
-  fillImage: {fileID: 578485357}
-  deathEffect: {fileID: 0}
 --- !u!95 &789583853
 Animator:
   serializedVersion: 7
@@ -15442,6 +15420,28 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &789583854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734356601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c69a408730a2f4f9ba3d12b983d70d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossController_LV6
+  moveSpeed: 2
+  detectionRange: 8
+  attackRange: 5
+  attackCooldown: 2
+  maxHealth: 10
+  bulletPrefab: {fileID: 3145169693976634165, guid: ba3e54fce173b0642a3829d08a18f5f8, type: 3}
+  firePoint: {fileID: 789583852}
+  healthBar: {fileID: 898295952}
+  fillImage: {fileID: 578485357}
+  deathEffect: {fileID: 0}
 --- !u!1 &794546101
 GameObject:
   m_ObjectHideFlags: 0
