@@ -65,7 +65,7 @@ public class Projectile : MonoBehaviour
                 bossHealth.TakeDamage(damage);
 
             // BossController (Level 5)
-            BossController bossController = collision.GetComponent<BossController>();
+            BossController_LV5 bossController = collision.GetComponent<BossController_LV5>();
             if (bossController != null)
                 bossController.TakeDamage(damage);
         }

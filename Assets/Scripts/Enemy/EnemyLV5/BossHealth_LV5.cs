@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class BossHealth : MonoBehaviour
+public class BossHealth_LV5 : MonoBehaviour
 {
     public int maxHealth = 500;
     private int currentHealth;
