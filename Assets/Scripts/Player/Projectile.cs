@@ -2,6 +2,7 @@
 
 public class Projectile : MonoBehaviour
 {
+    [Header("Projectile Settings")]
     [SerializeField] private float speed = 10f;
     [SerializeField] private int damage = 5;
 
@@ -36,51 +37,78 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         anim.SetTrigger("explode");
 
-        // ✅ Hợp nhất toàn bộ xử lý va chạm cho Enemy + Boss từ cả 2 nhánh
+        // ✅ Hợp nhất xử lý cho Enemy và Boss từ Level 4 → 6
 
-        // --- Enemy (Level 3, 4)
+        // ---- ENEMY ----
         if (collision.CompareTag("Enemy"))
         {
-            // SlimeGirl đặc biệt
+            // SlimeGirl (Level 4)
             SlimeGirl slime = collision.GetComponent<SlimeGirl>();
             if (slime != null)
             {
                 slime.TakeDamage(damage);
+                Deactivate();
                 return;
             }
 
-            // Enemy AI thông thường
-            EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
-            if (enemy != null)
-                enemy.TakeDamage(damage);
+            // EnemyAI2D (Level 4)
+            EnemyAI2D enemyAI = collision.GetComponent<EnemyAI2D>();
+            if (enemyAI != null)
+            {
+                enemyAI.TakeDamage(damage);
+                Deactivate();
+                return;
+            }
 
-            // Health component chung
-            Health targetHealth = collision.GetComponent<Health>();
-            if (targetHealth != null)
-                targetHealth.TakeDamage(damage);
+            // Health (fallback cho enemy thường)
+            Health enemyHealth = collision.GetComponent<Health>();
+            if (enemyHealth != null)
+            {
+                enemyHealth.TakeDamage(damage);
+                Deactivate();
+                return;
+            }
         }
 
-        // --- Boss (Level 5, 6)
+        // ---- BOSS ----
         if (collision.CompareTag("Boss"))
         {
-            // Boss level 5
-            BossController_LV5 boss5 = collision.GetComponent<BossController_LV5>();
-            if (boss5 != null)
-                boss5.TakeDamage(damage);
-
-            // Boss level 6
-            BossController_LV6 boss6 = collision.GetComponent<BossController_LV6>();
-            if (boss6 != null)
-                boss6.TakeDamage(damage);
-
-            // BossHealth (nếu có)
+            // BossHealth (Level 4)
             BossHealth bossHealth = collision.GetComponent<BossHealth>();
             if (bossHealth != null)
+            {
                 bossHealth.TakeDamage(damage);
+                Deactivate();
+                return;
+            }
+
+            // BossController_LV5
+            BossController_LV5 boss5 = collision.GetComponent<BossController_LV5>();
+            if (boss5 != null)
+            {
+                boss5.TakeDamage(damage);
+                Deactivate();
+                return;
+            }
+
+            // BossController_LV6
+            BossController_LV6 boss6 = collision.GetComponent<BossController_LV6>();
+            if (boss6 != null)
+            {
+                boss6.TakeDamage(damage);
+                Deactivate();
+                return;
+            }
         }
 
-        // Sau khi gây sát thương → vô hiệu hoá viên đạn
-        gameObject.SetActive(false);
+        // ✅ fallback — bất kỳ object nào có Health component
+        Health generic = collision.GetComponent<Health>();
+        if (generic != null)
+        {
+            generic.TakeDamage(damage);
+        }
+
+        Deactivate();
     }
 
     public void SetDirection(float _direction)
@@ -103,7 +131,7 @@ public class Projectile : MonoBehaviour
         damage = dmg;
     }
 
-    // Gọi từ animation event "explode"
+    // Gọi từ animation event “explode”
     private void Deactivate()
     {
         gameObject.SetActive(false);
