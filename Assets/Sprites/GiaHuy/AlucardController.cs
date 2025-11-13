@@ -96,7 +96,7 @@ public class AlucardController : MonoBehaviour
         // 2. Nhảy
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
         // 3. Backdash
@@ -118,7 +118,7 @@ public class AlucardController : MonoBehaviour
         }
 
         // Áp dụng lực di chuyển
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
 
         // Lật mặt nhân vật
         if (!isFacingRight && moveInput > 0)
@@ -190,7 +190,7 @@ public class AlucardController : MonoBehaviour
         
         // Lực lướt lùi sẽ ngược với hướng đang nhìn
         float dashDirection = isFacingRight ? -1 : 1;
-        rb.velocity = new Vector2(backdashSpeed * dashDirection, 0);
+        rb.linearVelocity = new Vector2(backdashSpeed * dashDirection, 0);
 
         anim.SetTrigger("Backdash"); // Kích hoạt animation lướt lùi
 
@@ -245,7 +245,7 @@ public void ResetPlayer(Vector3 respawnPosition)
     anim.SetTrigger("Die");
 
     // Vô hiệu hóa Rigidbody để không bị văng đi
-    rb.velocity = Vector2.zero;
+    rb.linearVelocity = Vector2.zero;
     rb.isKinematic = true; 
     GetComponent<Collider2D>().enabled = false;
 
