@@ -82,4 +82,8 @@ helperWidgetCurrentArea = "all"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
+<<<<<<< HEAD
 itemIconSize = 32
+=======
+itemIconSize = 32
+>>>>>>> origin/LevelSixx

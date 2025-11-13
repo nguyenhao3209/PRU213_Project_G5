@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
@@ -36,10 +36,10 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         anim.SetTrigger("explode");
 
-        // ✅ Gộp toàn bộ logic xử lý va chạm từ cả hai nhánh
+        // ✅ Hợp nhất toàn bộ xử lý va chạm cho Enemy + Boss từ cả 2 nhánh
 
-        // --- Level 3/4: Enemy & Boss (Health/BossHealth/AI/SlimeGirl)
-        if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
+        // --- Enemy (Level 3, 4)
+        if (collision.CompareTag("Enemy"))
         {
             // SlimeGirl đặc biệt
             SlimeGirl slime = collision.GetComponent<SlimeGirl>();
@@ -54,21 +54,33 @@ public class Projectile : MonoBehaviour
             if (enemy != null)
                 enemy.TakeDamage(damage);
 
-            // Gây sát thương qua Health component
+            // Health component chung
             Health targetHealth = collision.GetComponent<Health>();
             if (targetHealth != null)
                 targetHealth.TakeDamage(damage);
+        }
 
-            // BossHealth (Level 3)
+        // --- Boss (Level 5, 6)
+        if (collision.CompareTag("Boss"))
+        {
+            // Boss level 5
+            BossController_LV5 boss5 = collision.GetComponent<BossController_LV5>();
+            if (boss5 != null)
+                boss5.TakeDamage(damage);
+
+            // Boss level 6
+            BossController_LV6 boss6 = collision.GetComponent<BossController_LV6>();
+            if (boss6 != null)
+                boss6.TakeDamage(damage);
+
+            // BossHealth (nếu có)
             BossHealth bossHealth = collision.GetComponent<BossHealth>();
             if (bossHealth != null)
                 bossHealth.TakeDamage(damage);
-
-            // BossController (Level 5)
-            BossController_LV5 bossController = collision.GetComponent<BossController_LV5>();
-            if (bossController != null)
-                bossController.TakeDamage(damage);
         }
+
+        // Sau khi gây sát thương → vô hiệu hoá viên đạn
+        gameObject.SetActive(false);
     }
 
     public void SetDirection(float _direction)
@@ -91,7 +103,7 @@ public class Projectile : MonoBehaviour
         damage = dmg;
     }
 
-    // Hàm gọi từ animation event “explode”
+    // Gọi từ animation event "explode"
     private void Deactivate()
     {
         gameObject.SetActive(false);

@@ -72,10 +72,14 @@ PlayerSettings:
   androidUseSwappy: 1
   androidBlitType: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   androidResizeableActivity: 1
 =======
   androidResizeableActivity: 0
 >>>>>>> origin/Level5
+=======
+  androidResizeableActivity: 0
+>>>>>>> origin/LevelSixx
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
@@ -84,10 +88,14 @@ PlayerSettings:
   androidAutoRotationBehavior: 1
   androidPredictiveBackSupport: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   androidApplicationEntry: 2
 =======
   androidApplicationEntry: 1
 >>>>>>> origin/Level5
+=======
+  androidApplicationEntry: 1
+>>>>>>> origin/LevelSixx
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 0
@@ -280,7 +288,10 @@ PlayerSettings:
   AndroidTargetArchitectures: 2
 =======
   AndroidTargetArchitectures: 1
+<<<<<<< HEAD
 >>>>>>> origin/Level5
+=======
+>>>>>>> origin/LevelSixx
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
@@ -309,7 +320,10 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 200
 =======
   AndroidAppBundleSizeToValidate: 150
+<<<<<<< HEAD
 >>>>>>> origin/Level5
+=======
+>>>>>>> origin/LevelSixx
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
@@ -409,10 +423,13 @@ PlayerSettings:
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
   m_BuildTargetGraphicsAPIs: []
 =======
+=======
+>>>>>>> origin/LevelSixx
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
@@ -451,7 +468,10 @@ PlayerSettings:
   - m_BuildTarget: WindowsStandaloneSupport
     m_APIs: 0200000012000000
     m_Automatic: 0
+<<<<<<< HEAD
 >>>>>>> origin/Level5
+=======
+>>>>>>> origin/LevelSixx
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -621,10 +641,14 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchDisableHTCSPlayerConnection: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   switchUseNewStyleFilepaths: 1
 =======
   switchUseNewStyleFilepaths: 0
 >>>>>>> origin/Level5
+=======
+  switchUseNewStyleFilepaths: 0
+>>>>>>> origin/LevelSixx
   switchUseLegacyFmodPriorities: 0
   switchUseMicroSleepForYield: 1
   switchEnableRamDiskSupport: 0
@@ -748,8 +772,11 @@ PlayerSettings:
   il2cppCodeGeneration: {}
   il2cppStacktraceInformation: {}
 <<<<<<< HEAD
+<<<<<<< HEAD
   managedStrippingLevel: {}
 =======
+=======
+>>>>>>> origin/LevelSixx
   managedStrippingLevel:
     Android: 1
     EmbeddedLinux: 1
@@ -767,7 +794,10 @@ PlayerSettings:
     XboxOne: 1
     iPhone: 1
     tvOS: 1
+<<<<<<< HEAD
 >>>>>>> origin/Level5
+=======
+>>>>>>> origin/LevelSixx
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -857,10 +887,14 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
 <<<<<<< HEAD
+<<<<<<< HEAD
   activeInputHandler: 0
 =======
   activeInputHandler: 2
 >>>>>>> origin/Level5
+=======
+  activeInputHandler: 2
+>>>>>>> origin/LevelSixx
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
