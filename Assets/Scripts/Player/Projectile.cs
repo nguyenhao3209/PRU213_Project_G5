@@ -30,33 +30,38 @@ public class Projectile : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
+{
+    hit = true;
+    boxCollider.enabled = false;
+    anim.SetTrigger("explode");
+
+    if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
     {
-        hit = true;
-        boxCollider.enabled = false;
-        anim.SetTrigger("explode");
-
-        if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
+        // Gọi TakeDamage cho SlimeGirl nếu có
+        SlimeGirl slime = collision.GetComponent<SlimeGirl>();
+        if (slime != null)
         {
+            slime.TakeDamage(damage);
+        }
 
-            SlimeGirl slime = collision.GetComponent<SlimeGirl>();
-            if(slime != null)
-            {
-                slime.TakeDamage(damage);
-                return; // dừng kiểm tra nếu là SlimeGirl
-            }
+        // Gọi TakeDamage cho bất kỳ object nào có Health
+        Health targetHealth = collision.GetComponent<Health>();
+        if (targetHealth != null)
+        {
+            targetHealth.TakeDamage(damage);
+        }
 
-            // ✅ Gây damage cho bất kỳ object nào có Health
-            Health targetHealth = collision.GetComponent<Health>();
-            if (targetHealth != null)
-            {
-                targetHealth.TakeDamage(damage);
-            }
-
-            EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
-            if (enemy != null)
-                enemy.TakeDamage(damage);
+        // Gọi TakeDamage cho EnemyAI2D nếu có
+        EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
+        if (enemy != null)
+        {
+            enemy.TakeDamage(damage);
         }
     }
+
+    // 🔥 Đảm bảo viên đạn tắt sau khi phát nổ
+    Invoke(nameof(Deactivate), 0.3f); // cho nó tắt sau 0.3s (khớp animation nổ)
+}
 
     public void SetDirection(float _direction)
     {
