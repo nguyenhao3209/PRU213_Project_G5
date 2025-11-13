@@ -1,6 +1,6 @@
 using UnityEngine;
 using System.Collections; // Cần thiết cho Coroutine
-
+using UnityEngine.UI; // BẮT BUỘC CÓ DÒNG NÀY
 public class AlucardController : MonoBehaviour
 {
     [Header("Components")]
@@ -42,7 +42,8 @@ public class AlucardController : MonoBehaviour
     public int maxHealth = 100;
     private int currentHealth;
     private bool isDead = false;
-    
+    [Header("UI")]
+public Slider healthBarSlider;
     [Header("Invincibility")]
     public float invincibilityDuration = 1f; // Thời gian bất tử sau khi trúng đòn
     private bool isInvincible = false;
@@ -58,6 +59,7 @@ public class AlucardController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         currentHealth = maxHealth;
+        UpdateHealthBar();
     }
 
     void Update()
@@ -209,7 +211,7 @@ public class AlucardController : MonoBehaviour
         if (isInvincible || isDead) return;
 
         currentHealth -= damage;
-
+        UpdateHealthBar();
         if (currentHealth <= 0)
         {
             Die();
@@ -228,6 +230,7 @@ public void ResetPlayer(Vector3 respawnPosition)
 
     // 2. Hồi đầy máu
     currentHealth = maxHealth;
+    UpdateHealthBar();
     isDead = false;
     isInvincible = false;
 
@@ -292,4 +295,13 @@ public void ResetPlayer(Vector3 respawnPosition)
             Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }
+    void UpdateHealthBar()
+{
+    if (healthBarSlider != null)
+    {
+        // Tính toán tỉ lệ máu (0.0 đến 1.0)
+        float healthPercentage = (float)currentHealth / (float)maxHealth;
+        healthBarSlider.value = healthPercentage;
+    }
+}
 }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI; // Thêm dòng này
 public class GalamothAI : MonoBehaviour
 {
@@ -176,7 +177,11 @@ public void TakeDamage(int damage)
     }
 }
     
-
+void LoadWinScene()
+{
+    // Tên "WinScene" phải khớp 100% với tên file scene bạn tạo
+    SceneManager.LoadScene("WinScene");
+}
     void Die()
 {
     currentState = State.Dead;
@@ -188,7 +193,12 @@ public void TakeDamage(int damage)
         healthBarSlider.gameObject.SetActive(false);
     }
 
-    // ... (code vô hiệu hóa boss) ...
+    // Vô hiệu hóa boss
+    GetComponent<Collider2D>().enabled = false;
+    this.enabled = false; 
+
+    // CHỜ 4 GIÂY (CHO ANIMATION CHẾT CHẠY) RỒI TẢI SCENE CHIẾN THẮNG
+    Invoke("LoadWinScene", 4.0f); // Bạn có thể đổi 4.0f thành 2.0f, 3.0f...
 }
 
     // Vẽ Gizmo trong Editor để dễ căn chỉnh

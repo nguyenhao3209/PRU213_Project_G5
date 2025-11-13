@@ -1,0 +1,35 @@
+Các chức năng chính trong level:
+
+Môi trường:
+
+Tạo bản đồ (Tilemap) từ ảnh (spritesheet).
+
+Thêm va chạm (Collision) cho bản đồ.
+
+Thêm Camera (Cinemachine) tự động đi theo nhân vật.
+
+Nhân vật (Alucard):
+
+Điều khiển: Di chuyển, nhảy (có GroundCheck), lật mặt (Flip).
+
+Chiêu thức: Lướt lùi (Backdash) và Tấn công (có AttackPoint và cooldown).
+
+Hệ thống Máu: TakeDamage (mất máu), Die (chết).
+
+UI: Kết nối với thanh máu PlayerHealthBar.(nếu fix kịp)
+
+Boss (Galamoth):
+
+AI: 3 trạng thái (Sleeping, Fighting, Dead), được kích hoạt bằng trigger.
+
+Tấn công: 2 chiêu (Đập trượng - tầm gần, Bắn cầu - tầm xa) có cooldown.
+
+Đạn (Prefab): Tạo OrbController cho quả cầu bay thẳng và tự hủy.
+
+UI: Kết nối với thanh máu BossHealthBar (tự động ẩn/hiện)(nêu fix kịp).
+
+Quản lý Game:
+
+Hồi sinh (Respawn): Dùng GameManager (cục bộ) để reset Alucard và Galamoth về checkpoint khi Alucard chết.
+
+Chuyển Scene: Chuyển màn khi thắng boss hoặc qua level.
