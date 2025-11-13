@@ -60,5 +60,8 @@ TagManager:
   - name: Boss
     uniqueID: 1426823719
     locked: 0
+  - name: Foreground
+    uniqueID: 1835775837
+    locked: 0
   m_RenderingLayers:
   - Default
