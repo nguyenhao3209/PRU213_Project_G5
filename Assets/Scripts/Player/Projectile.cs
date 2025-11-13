@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
@@ -22,14 +22,14 @@ public class Projectile : MonoBehaviour
     {
         if (hit) return;
 
-        float movement = speed * Time.deltaTime * direction;
-        transform.Translate(movement, 0, 0);
+        float movementSpeed = speed * Time.deltaTime * direction;
+        transform.Translate(movementSpeed, 0, 0);
 
         lifetime += Time.deltaTime;
         if (lifetime > 5f) gameObject.SetActive(false);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+   private void OnTriggerEnter2D(Collider2D collision)
 {
     hit = true;
     boxCollider.enabled = false;
@@ -37,30 +37,38 @@ public class Projectile : MonoBehaviour
 
     if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
     {
-        // Gọi TakeDamage cho SlimeGirl nếu có
+        // 🧪 Trường hợp đặc biệt SlimeGirl (LV4)
         SlimeGirl slime = collision.GetComponent<SlimeGirl>();
         if (slime != null)
         {
             slime.TakeDamage(damage);
+            Invoke(nameof(Deactivate), 0.3f);
+            return;
         }
 
-        // Gọi TakeDamage cho bất kỳ object nào có Health
+        // 🧱 Level 3 (enemy cổ điển dùng Health)
+        if (collision.CompareTag("Enemy"))
+            collision.GetComponent<Health>()?.TakeDamage(damage);
+
+        // 🧱 Level 3 Boss
+        if (collision.CompareTag("Boss"))
+            collision.GetComponent<BossHealth>()?.TakeDamage(damage);
+
+        // 🧱 Level 4 trở đi: đối tượng có Health hoặc AI riêng
+
+        // Có Health → dùng Health
         Health targetHealth = collision.GetComponent<Health>();
         if (targetHealth != null)
-        {
             targetHealth.TakeDamage(damage);
-        }
 
-        // Gọi TakeDamage cho EnemyAI2D nếu có
-        EnemyAI2D enemy = collision.GetComponent<EnemyAI2D>();
-        if (enemy != null)
-        {
-            enemy.TakeDamage(damage);
-        }
+        // Có AI EnemyAI2D → damage AI
+        EnemyAI2D enemyAI = collision.GetComponent<EnemyAI2D>();
+        if (enemyAI != null)
+            enemyAI.TakeDamage(damage);
     }
 
-    // 🔥 Đảm bảo viên đạn tắt sau khi phát nổ
-    Invoke(nameof(Deactivate), 0.3f); // cho nó tắt sau 0.3s (khớp animation nổ)
+    // 🔥 Tắt viên đạn sau hiệu ứng nổ
+    Invoke(nameof(Deactivate), 0.3f);
 }
 
     public void SetDirection(float _direction)
@@ -78,7 +86,7 @@ public class Projectile : MonoBehaviour
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }
 
-    // Hàm này gọi từ animation event explode
+    // Hàm gọi từ animation event “explode”
     private void Deactivate()
     {
         gameObject.SetActive(false);

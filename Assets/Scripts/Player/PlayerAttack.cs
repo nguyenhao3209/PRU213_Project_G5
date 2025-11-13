@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -31,9 +31,16 @@ public class PlayerAttack : MonoBehaviour
         anim.SetTrigger("attack");
         cooldownTimer = 0;
 
-        fireballs[FindFireball()].transform.position = firePoint.position;
-        fireballs[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+        // Lấy viên đạn trống
+        int fireballIndex = FindFireball();
+        GameObject fireball = fireballs[fireballIndex];
+
+        // Đặt vị trí và hướng
+        fireball.transform.position = firePoint.position;
+        fireball.SetActive(true);
+        fireball.GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
     }
+
     private int FindFireball()
     {
         for (int i = 0; i < fireballs.Length; i++)

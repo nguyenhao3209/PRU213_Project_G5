@@ -1,0 +1,1615 @@
+fileFormatVersion: 2
+guid: 0392cd7e67f6f4f48addb16c5ede7f59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7135198954078225319
+    second: "Boss_Kh\xE1nh_0"
+  - first:
+      213: -3366701821009775878
+    second: "Boss_Kh\xE1nh_1"
+  - first:
+      213: 5217708208161406378
+    second: "Boss_Kh\xE1nh_2"
+  - first:
+      213: 3002843959935506026
+    second: "Boss_Kh\xE1nh_3"
+  - first:
+      213: -2976508011543212256
+    second: "Boss_Kh\xE1nh_4"
+  - first:
+      213: -7061311992025848648
+    second: "Boss_Kh\xE1nh_5"
+  - first:
+      213: 6400478372489331307
+    second: "Boss_Kh\xE1nh_6"
+  - first:
+      213: 4842832985461815305
+    second: "Boss_Kh\xE1nh_7"
+  - first:
+      213: -6080501059524672294
+    second: "Boss_Kh\xE1nh_8"
+  - first:
+      213: -5756454361420822365
+    second: "Boss_Kh\xE1nh_9"
+  - first:
+      213: -1948701173262549794
+    second: "Boss_Kh\xE1nh_10"
+  - first:
+      213: -5278212501281544932
+    second: "Boss_Kh\xE1nh_11"
+  - first:
+      213: 1058108303341056288
+    second: "Boss_Kh\xE1nh_12"
+  - first:
+      213: -8694875346425919180
+    second: "Boss_Kh\xE1nh_13"
+  - first:
+      213: 2689335713384375337
+    second: "Boss_Kh\xE1nh_14"
+  - first:
+      213: -7392819342732818971
+    second: "Boss_Kh\xE1nh_15"
+  - first:
+      213: -5654051330846375036
+    second: "Boss_Kh\xE1nh_16"
+  - first:
+      213: 5066338968912779171
+    second: "Boss_Kh\xE1nh_17"
+  - first:
+      213: -9130897433421139334
+    second: "Boss_Kh\xE1nh_18"
+  - first:
+      213: 4305734697597336605
+    second: "Boss_Kh\xE1nh_19"
+  - first:
+      213: 8797096984628201998
+    second: "Boss_Kh\xE1nh_20"
+  - first:
+      213: 4310381275838465219
+    second: "Boss_Kh\xE1nh_21"
+  - first:
+      213: 7376967538100175229
+    second: "Boss_Kh\xE1nh_22"
+  - first:
+      213: 5612929495550742901
+    second: "Boss_Kh\xE1nh_23"
+  - first:
+      213: 5927552431002683978
+    second: "Boss_Kh\xE1nh_24"
+  - first:
+      213: -9208764453506934101
+    second: "Boss_Kh\xE1nh_25"
+  - first:
+      213: 5419771936210234426
+    second: "Boss_Kh\xE1nh_26"
+  - first:
+      213: -1346508370635324331
+    second: "Boss_Kh\xE1nh_27"
+  - first:
+      213: 262539826362538988
+    second: "Boss_Kh\xE1nh_28"
+  - first:
+      213: -2506659198524968786
+    second: "Boss_Kh\xE1nh_29"
+  - first:
+      213: 742750441051354495
+    second: "Boss_Kh\xE1nh_30"
+  - first:
+      213: -7451046666891872962
+    second: "Boss_Kh\xE1nh_31"
+  - first:
+      213: 3812106391983512562
+    second: "Boss_Kh\xE1nh_32"
+  - first:
+      213: 3889128061685894861
+    second: "Boss_Kh\xE1nh_33"
+  - first:
+      213: 8102995653827839684
+    second: "Boss_Kh\xE1nh_34"
+  - first:
+      213: 7478987923979600406
+    second: "Boss_Kh\xE1nh_35"
+  - first:
+      213: 5585679302749069174
+    second: "Boss_Kh\xE1nh_36"
+  - first:
+      213: -2256180494245923730
+    second: "Boss_Kh\xE1nh_37"
+  - first:
+      213: -2420505767790131528
+    second: "Boss_Kh\xE1nh_38"
+  - first:
+      213: -5505324709965458156
+    second: "Boss_Kh\xE1nh_39"
+  - first:
+      213: 1640222206978351294
+    second: "Boss_Kh\xE1nh_40"
+  - first:
+      213: 3107334266394276626
+    second: "Boss_Kh\xE1nh_41"
+  - first:
+      213: 5560951008303021712
+    second: "Boss_Kh\xE1nh_42"
+  - first:
+      213: 2016703009856126260
+    second: "Boss_Kh\xE1nh_43"
+  - first:
+      213: -4208457987393034449
+    second: "Boss_Kh\xE1nh_44"
+  - first:
+      213: -3343284835536198942
+    second: "Boss_Kh\xE1nh_45"
+  - first:
+      213: -2013895317082316740
+    second: "Boss_Kh\xE1nh_46"
+  - first:
+      213: -3208512566507222362
+    second: "Boss_Kh\xE1nh_47"
+  - first:
+      213: -8720306632437875255
+    second: "Boss_Kh\xE1nh_48"
+  - first:
+      213: -6427078845948102025
+    second: "Boss_Kh\xE1nh_49"
+  - first:
+      213: -2394220230836097590
+    second: "Boss_Kh\xE1nh_50"
+  - first:
+      213: -4978999701355951086
+    second: "Boss_Kh\xE1nh_51"
+  - first:
+      213: -4998609071698529571
+    second: "Boss_Kh\xE1nh_52"
+  - first:
+      213: 5491637103393745571
+    second: "Boss_Kh\xE1nh_53"
+  - first:
+      213: -7276418911353414179
+    second: "Boss_Kh\xE1nh_54"
+  - first:
+      213: -2041824193172101257
+    second: "Boss_Kh\xE1nh_55"
+  - first:
+      213: 6070703455221475012
+    second: "Boss_Kh\xE1nh_56"
+  - first:
+      213: -344488388646734327
+    second: "Boss_Kh\xE1nh_57"
+  - first:
+      213: -9120415679835234768
+    second: "Boss_Kh\xE1nh_58"
+  - first:
+      213: 1860584873339382771
+    second: "Boss_Kh\xE1nh_59"
+  - first:
+      213: -3742006138273158352
+    second: "Boss_Kh\xE1nh_60"
+  - first:
+      213: -1216265793453274876
+    second: "Boss_Kh\xE1nh_61"
+  - first:
+      213: 5627386863804751040
+    second: "Boss_Kh\xE1nh_62"
+  - first:
+      213: -4793455503885851183
+    second: "Boss_Kh\xE1nh_63"
+  - first:
+      213: 2151321808610796684
+    second: "Boss_Kh\xE1nh_64"
+  - first:
+      213: -7659372778145435368
+    second: "Boss_Kh\xE1nh_65"
+  - first:
+      213: -8816570988406009893
+    second: "Boss_Kh\xE1nh_66"
+  - first:
+      213: -711833798491587668
+    second: "Boss_Kh\xE1nh_67"
+  - first:
+      213: 2632584401080548647
+    second: "Boss_Kh\xE1nh_68"
+  - first:
+      213: -3225694222253249601
+    second: "Boss_Kh\xE1nh_69"
+  - first:
+      213: -8521256934441541200
+    second: "Boss_Kh\xE1nh_70"
+  - first:
+      213: 2399291502720851163
+    second: "Boss_Kh\xE1nh_71"
+  - first:
+      213: -4250035830648959609
+    second: "Boss_Kh\xE1nh_72"
+  - first:
+      213: -9180211204674896414
+    second: "Boss_Kh\xE1nh_73"
+  - first:
+      213: -381017726463505177
+    second: "Boss_Kh\xE1nh_74"
+  - first:
+      213: 6393782436676565855
+    second: "Boss_Kh\xE1nh_75"
+  - first:
+      213: -1306287865256304626
+    second: "Boss_Kh\xE1nh_76"
+  - first:
+      213: 3370023250046935197
+    second: "Boss_Kh\xE1nh_77"
+  - first:
+      213: 695380413313885027
+    second: "Boss_Kh\xE1nh_78"
+  - first:
+      213: -810433965794297464
+    second: "Boss_Kh\xE1nh_79"
+  - first:
+      213: 6029325967683200551
+    second: "Boss_Kh\xE1nh_80"
+  - first:
+      213: -1246160368044753441
+    second: "Boss_Kh\xE1nh_81"
+  - first:
+      213: -5428433745864974351
+    second: "Boss_Kh\xE1nh_82"
+  - first:
+      213: 7111661442999036055
+    second: "Boss_Kh\xE1nh_83"
+  - first:
+      213: 1330424745868319992
+    second: "Boss_Kh\xE1nh_84"
+  - first:
+      213: 6846130181556410460
+    second: "Boss_Kh\xE1nh_85"
+  - first:
+      213: 8678541081886699268
+    second: "Boss_Kh\xE1nh_86"
+  - first:
+      213: 3079902212329613407
+    second: "Boss_Kh\xE1nh_87"
+  - first:
+      213: 4918116051352830328
+    second: "Boss_Kh\xE1nh_88"
+  - first:
+      213: -7008130576645165317
+    second: "Boss_Kh\xE1nh_89"
+  - first:
+      213: 768786985169478510
+    second: "Boss_Kh\xE1nh_90"
+  - first:
+      213: 2452606953166627333
+    second: "Boss_Kh\xE1nh_91"
+  - first:
+      213: -4051382366889929727
+    second: "Boss_Kh\xE1nh_92"
+  - first:
+      213: -4400201623271086213
+    second: "Boss_Kh\xE1nh_93"
+  - first:
+      213: 6328970827522248045
+    second: "Boss_Kh\xE1nh_94"
+  - first:
+      213: -6825284125784122922
+    second: "Boss_Kh\xE1nh_95"
+  - first:
+      213: -4458851421175624004
+    second: "Boss_Kh\xE1nh_96"
+  - first:
+      213: 4235823362124644540
+    second: "Boss_Kh\xE1nh_97"
+  - first:
+      213: 154077581449531507
+    second: "Boss_Kh\xE1nh_98"
+  - first:
+      213: 2414197004042194299
+    second: "Boss_Kh\xE1nh_99"
+  - first:
+      213: -223708435866358057
+    second: "Boss_Kh\xE1nh_100"
+  - first:
+      213: 6699631903092812882
+    second: "Boss_Kh\xE1nh_101"
+  - first:
+      213: 3245207546598487110
+    second: "Boss_Kh\xE1nh_102"
+  - first:
+      213: 7576158918151035546
+    second: "Boss_Kh\xE1nh_103"
+  - first:
+      213: 218847074168965237
+    second: "Boss_Kh\xE1nh_104"
+  - first:
+      213: 1976904429407493673
+    second: "Boss_Kh\xE1nh_105"
+  - first:
+      213: -6856467751622459337
+    second: "Boss_Kh\xE1nh_106"
+  - first:
+      213: -4937133660050077774
+    second: "Boss_Kh\xE1nh_107"
+  - first:
+      213: 2833218280519420006
+    second: "Boss_Kh\xE1nh_108"
+  - first:
+      213: 8480575274926486057
+    second: "Boss_Kh\xE1nh_109"
+  - first:
+      213: -9093151123598447510
+    second: "Boss_Kh\xE1nh_112"
+  - first:
+      213: -4162002077203659351
+    second: "Boss_Kh\xE1nh_113"
+  - first:
+      213: 112089065074012743
+    second: "Boss_Kh\xE1nh_114"
+  - first:
+      213: -4898826468300678083
+    second: "Boss_Kh\xE1nh_115"
+  - first:
+      213: 1522598151568863832
+    second: "Boss_Kh\xE1nh_116"
+  - first:
+      213: -3646904330789377313
+    second: "Boss_Kh\xE1nh_121"
+  - first:
+      213: 9210524949300952227
+    second: "Boss_Kh\xE1nh_122"
+  - first:
+      213: 2894379861503831125
+    second: "Boss_Kh\xE1nh_123"
+  - first:
+      213: 6081858561566214636
+    second: "Boss_Kh\xE1nh_125"
+  - first:
+      213: 8657571972054845080
+    second: "Boss_Kh\xE1nh_126"
+  - first:
+      213: 6166945422122231408
+    second: "Boss_Kh\xE1nh_127"
+  - first:
+      213: -5088917142938236178
+    second: "Boss_Kh\xE1nh_128"
+  - first:
+      213: -3579839595998096648
+    second: "Boss_Kh\xE1nh_129"
+  - first:
+      213: 6652453105800524919
+    second: "Boss_Kh\xE1nh_130"
+  - first:
+      213: -2331547529812651417
+    second: "Boss_Kh\xE1nh_131"
+  - first:
+      213: -1797298059663615797
+    second: "Boss_Kh\xE1nh_132"
+  - first:
+      213: 3906859983745581914
+    second: "Boss_Kh\xE1nh_133"
+  - first:
+      213: -4304053603081886831
+    second: "Boss_Kh\xE1nh_134"
+  - first:
+      213: -8574430829386841779
+    second: "Boss_Kh\xE1nh_135"
+  - first:
+      213: 881329549606198330
+    second: "Boss_Kh\xE1nh_117"
+  - first:
+      213: 8716455358557241073
+    second: "Boss_Kh\xE1nh_138"
+  - first:
+      213: -4286258352095628490
+    second: "Boss_Kh\xE1nh_139"
+  - first:
+      213: 8070241955223819182
+    second: "Boss_Kh\xE1nh_118"
+  - first:
+      213: 8479102646948825041
+    second: "Boss_Kh\xE1nh_140"
+  - first:
+      213: 4909858536639399193
+    second: "Boss_Kh\xE1nh_141"
+  - first:
+      213: 4091406050311410656
+    second: "Boss_Kh\xE1nh_119"
+  - first:
+      213: -8050298867787336429
+    second: "Boss_Kh\xE1nh_120"
+  - first:
+      213: -2194701834480938440
+    second: "Boss_Kh\xE1nh_110"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_90"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 154
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6368f690b74baa00800000000000000
+      internalID: 768786985169478510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_91"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 154
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50266298709690220800000000000000
+      internalID: 2452606953166627333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_93"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 158
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7764d8dfe75fe2c0800000000000000
+      internalID: -4400201623271086213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_96"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 162
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec496a14afe12c0800000000000000
+      internalID: -4458851421175624004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_97"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 157
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08dbec7eaa8ca30800000000000000
+      internalID: 4235823362124644540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_99"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 159
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4fbb5263f08120800000000000000
+      internalID: 2414197004042194299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_104"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 158
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57889f32140890300800000000000000
+      internalID: 218847074168965237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_117"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c155e4e8c1b3c00800000000000000
+      internalID: 881329549606198330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_138"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 100
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feba5387f117f870800000000000000
+      internalID: 8716455358557241073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_139"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 98
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f9c30db62484c0800000000000000
+      internalID: -4286258352095628490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_118"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 94
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d190ec424fff60800000000000000
+      internalID: 8070241955223819182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_140"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 93
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78575eee2dba570800000000000000
+      internalID: 8479102646948825041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_141"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 90
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158fc55352532440800000000000000
+      internalID: 4909858536639399193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_119"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 90
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e312b4202897c830800000000000000
+      internalID: 4091406050311410656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_120"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 91
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157ec105d7974090800000000000000
+      internalID: -8050298867787336429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 610
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3429315a1550360800000000000000
+      internalID: 7135198954078225319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_1"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 610
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23d0608821741d0800000000000000
+      internalID: -3366701821009775878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_2"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 610
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb91188f5096840800000000000000
+      internalID: 5217708208161406378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_3"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 610
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6612ebfbae3ca920800000000000000
+      internalID: 3002843959935506026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_4"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 610
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fccd4dbb151b6d0800000000000000
+      internalID: -2976508011543212256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_5"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 611
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e71bd72e210e90800000000000000
+      internalID: -7061311992025848648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_6"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 501
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620cc82b2113d850800000000000000
+      internalID: 6400478372489331307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_7"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 499
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908fefc11f2353340800000000000000
+      internalID: 4842832985461815305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_8"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 501
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad445a29088bd9ba0800000000000000
+      internalID: -6080501059524672294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_9"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 501
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a883cdd147fc10b0800000000000000
+      internalID: -5756454361420822365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_10"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 502
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7c4a8b92d4f4e0800000000000000
+      internalID: -1948701173262549794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_11"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 502
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15661cf1b500c6b0800000000000000
+      internalID: -5278212501281544932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_12"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 89
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f88255e72fae00800000000000000
+      internalID: 1058108303341056288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_13"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 88
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394bf990f8955780800000000000000
+      internalID: -8694875346425919180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_14"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 84
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242c062590725520800000000000000
+      internalID: 2689335713384375337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_15"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 78
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e506c30afd676990800000000000000
+      internalID: -7392819342732818971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_16"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 89
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c3136546c881b0800000000000000
+      internalID: -5654051330846375036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_17"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 501
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d3c913704f4640800000000000000
+      internalID: 5066338968912779171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_18"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 500
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7238607929884180800000000000000
+      internalID: -9130897433421139334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_19"
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 500
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cfc5b05ea01cb30800000000000000
+      internalID: 4305734697597336605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_20"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 612
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8c673911951a70800000000000000
+      internalID: 8797096984628201998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_21"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 611
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c8d8deec81db30800000000000000
+      internalID: 4310381275838465219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_22"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 615
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718c0c14e0406660800000000000000
+      internalID: 7376967538100175229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_23"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 614
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715d9b33a125ed40800000000000000
+      internalID: 5612929495550742901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_24"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 613
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0b6dc785e24250800000000000000
+      internalID: 5927552431002683978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_25"
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 615
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa99780585e33080800000000000000
+      internalID: -9208764453506934101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_26"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c217d5cd5e63b40800000000000000
+      internalID: 5419771936210234426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_27"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 13
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554013165cd305de0800000000000000
+      internalID: -1346508370635324331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_28"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5bb1c49ab4a300800000000000000
+      internalID: 262539826362538988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_29"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea034f26dbe863dd0800000000000000
+      internalID: -2506659198524968786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boss_Kh\xE1nh_30"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 11
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7571a34797ce4a00800000000000000
+      internalID: 742750441051354495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Boss_Kh\xE1nh_0": 7135198954078225319
+      "Boss_Kh\xE1nh_1": -3366701821009775878
+      "Boss_Kh\xE1nh_10": -1948701173262549794
+      "Boss_Kh\xE1nh_104": 218847074168965237
+      "Boss_Kh\xE1nh_11": -5278212501281544932
+      "Boss_Kh\xE1nh_117": 881329549606198330
+      "Boss_Kh\xE1nh_118": 8070241955223819182
+      "Boss_Kh\xE1nh_119": 4091406050311410656
+      "Boss_Kh\xE1nh_12": 1058108303341056288
+      "Boss_Kh\xE1nh_120": -8050298867787336429
+      "Boss_Kh\xE1nh_13": -8694875346425919180
+      "Boss_Kh\xE1nh_138": 8716455358557241073
+      "Boss_Kh\xE1nh_139": -4286258352095628490
+      "Boss_Kh\xE1nh_14": 2689335713384375337
+      "Boss_Kh\xE1nh_140": 8479102646948825041
+      "Boss_Kh\xE1nh_141": 4909858536639399193
+      "Boss_Kh\xE1nh_15": -7392819342732818971
+      "Boss_Kh\xE1nh_16": -5654051330846375036
+      "Boss_Kh\xE1nh_17": 5066338968912779171
+      "Boss_Kh\xE1nh_18": -9130897433421139334
+      "Boss_Kh\xE1nh_19": 4305734697597336605
+      "Boss_Kh\xE1nh_2": 5217708208161406378
+      "Boss_Kh\xE1nh_20": 8797096984628201998
+      "Boss_Kh\xE1nh_21": 4310381275838465219
+      "Boss_Kh\xE1nh_22": 7376967538100175229
+      "Boss_Kh\xE1nh_23": 5612929495550742901
+      "Boss_Kh\xE1nh_24": 5927552431002683978
+      "Boss_Kh\xE1nh_25": -9208764453506934101
+      "Boss_Kh\xE1nh_26": 5419771936210234426
+      "Boss_Kh\xE1nh_27": -1346508370635324331
+      "Boss_Kh\xE1nh_28": 262539826362538988
+      "Boss_Kh\xE1nh_29": -2506659198524968786
+      "Boss_Kh\xE1nh_3": 3002843959935506026
+      "Boss_Kh\xE1nh_30": 742750441051354495
+      "Boss_Kh\xE1nh_4": -2976508011543212256
+      "Boss_Kh\xE1nh_5": -7061311992025848648
+      "Boss_Kh\xE1nh_6": 6400478372489331307
+      "Boss_Kh\xE1nh_7": 4842832985461815305
+      "Boss_Kh\xE1nh_8": -6080501059524672294
+      "Boss_Kh\xE1nh_9": -5756454361420822365
+      "Boss_Kh\xE1nh_90": 768786985169478510
+      "Boss_Kh\xE1nh_91": 2452606953166627333
+      "Boss_Kh\xE1nh_93": -4400201623271086213
+      "Boss_Kh\xE1nh_96": -4458851421175624004
+      "Boss_Kh\xE1nh_97": 4235823362124644540
+      "Boss_Kh\xE1nh_99": 2414197004042194299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
