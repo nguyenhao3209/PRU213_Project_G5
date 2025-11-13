@@ -19,6 +19,7 @@ public Slider healthBarSlider;
     [Header("Core References")]
     public Transform player;
     public Animator anim;
+public Collider2D sleepTriggerZone; // Thêm dòng này
 
     [Header("Staff Smash Attack (Tầm gần)")]
     public float attackRange = 3f;
@@ -27,7 +28,6 @@ public Slider healthBarSlider;
     public float staffAttackArea = 2f;
     public float staffAttackCooldown = 5f;
     private float staffTimer;
-
     [Header("Orb Attack (Tầm xa)")]
     public GameObject orbPrefab;
     public Transform orbSpawnPoint;
@@ -97,12 +97,39 @@ public Slider healthBarSlider;
         healthBarSlider.gameObject.SetActive(true);
         healthBarSlider.value = 1; // Đảm bảo thanh máu đầy khi bắt đầu
     }
-
+if (sleepTriggerZone != null)
+{
+    sleepTriggerZone.enabled = true;
+}
     // ... (vô hiệu hóa trigger) ...
 }
 
     // --- CÁC HÀM ĐƯỢC GỌI BẰNG ANIMATION EVENT ---
+// Hàm này được GameManager gọi để reset boss
+public void ResetBoss()
+{
+    // 1. Trở về trạng thái ngủ
+    currentState = State.Sleeping;
 
+    // 2. Hồi đầy máu
+    currentHealth = maxHealth;
+
+    // 3. Ẩn thanh máu
+    if (healthBarSlider != null)
+    {
+        healthBarSlider.gameObject.SetActive(false);
+    }
+
+    // 4. Bật lại trigger (nếu bạn đã tắt nó)
+    // (Giả sử BoxCollider2D thứ hai là trigger)
+    if (sleepTriggerZone != null)
+{
+    sleepTriggerZone.enabled = true;
+}
+
+    // 5. Kích hoạt lại animation ngủ (hoặc Idle)
+    anim.Play("Sleeping"); // Đổi "Sleeping" thành tên state ngủ của bạn
+}
     public void DealStaffDamage()
     {
         Collider2D[] hitPlayers = Physics2D.OverlapCircleAll(staffAttackPoint.position, staffAttackArea);

@@ -220,18 +220,38 @@ public class AlucardController : MonoBehaviour
             StartCoroutine(InvincibilityCoroutine());
         }
     }
+// Hàm này được GameManager gọi để hồi sinh Alucard
+public void ResetPlayer(Vector3 respawnPosition)
+{
+    // 1. Di chuyển Alucard đến điểm hồi sinh
+    transform.position = respawnPosition;
 
+    // 2. Hồi đầy máu
+    currentHealth = maxHealth;
+    isDead = false;
+    isInvincible = false;
+
+    // 3. Kích hoạt lại mọi thứ
+    this.enabled = true; // Bật lại script này
+    rb.isKinematic = false; // Bật lại vật lý
+    GetComponent<Collider2D>().enabled = true; // Bật lại collider
+
+    // 4. Kích hoạt lại animation Idle
+    anim.Play("Alucard_Idle"); // Hoặc dùng Trigger nếu bạn muốn
+}
     void Die()
-    {
-        isDead = true;
-        anim.SetTrigger("Die");
-        
-        // Vô hiệu hóa nhân vật
-        this.enabled = false; // Tắt script này
-        rb.velocity = Vector2.zero;
-        rb.isKinematic = true; // Không bị tác động bởi vật lý nữa
-        GetComponent<Collider2D>().enabled = false;
-    }
+{
+    isDead = true;
+    anim.SetTrigger("Die");
+
+    // Vô hiệu hóa Rigidbody để không bị văng đi
+    rb.velocity = Vector2.zero;
+    rb.isKinematic = true; 
+    GetComponent<Collider2D>().enabled = false;
+
+    // BÁO CHO GAME MANAGER BIẾT ĐỂ BẮT ĐẦU HỒI SINH
+    FindObjectOfType<GameManagerFinal>().StartRespawn();
+}
 
     IEnumerator InvincibilityCoroutine()
     {

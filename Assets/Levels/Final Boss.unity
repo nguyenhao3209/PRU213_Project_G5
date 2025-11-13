@@ -352,7 +352,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91792625}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.55, y: -4.2, z: -12.918354}
+  m_LocalPosition: {x: -3.25, y: -4.18, z: -12.918354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 621944805}
@@ -4794,6 +4794,53 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &633362915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 633362917}
+  - component: {fileID: 633362916}
+  m_Layer: 0
+  m_Name: GameManagerFinal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &633362916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633362915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f1bf5bc8964204595e763dad71fc3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 959258852}
+  boss: {fileID: 1979985897}
+  respawnPoint: {fileID: 1661708095}
+  respawnDelay: 3
+--- !u!4 &633362917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633362915}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.5101767, y: -1.107072, z: -364.50534}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &658932224
 GameObject:
   m_ObjectHideFlags: 0
@@ -6354,8 +6401,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 871973242}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.55, y: -4.2, z: -12.918354}
-  m_LocalScale: {x: 1.4429005, y: 1.4429005, z: 1.4429005}
+  m_LocalPosition: {x: -3.25, y: -4.18, z: -12.918354}
+  m_LocalScale: {x: 0.58561563, y: 0.58561563, z: 0.58561563}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -7197,7 +7244,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 959258847}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.55, y: -4.2, z: -2.9183545}
+  m_LocalPosition: {x: -3.25, y: -4.18, z: -2.9183545}
   m_LocalScale: {x: 1.8378094, y: 1.0859089, z: 0.3864077}
   m_Children:
   - {fileID: 1777773843}
@@ -11551,6 +11598,36 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1661708094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1661708095}
+  m_Layer: 0
+  m_Name: RepawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1661708095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661708094}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.881, y: -1.339, z: -364.50534}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1714250538
 GameObject:
   m_ObjectHideFlags: 0
@@ -13331,6 +13408,7 @@ MonoBehaviour:
   maxHealth: 3000
   player: {fileID: 959258851}
   anim: {fileID: 0}
+  sleepTriggerZone: {fileID: 0}
   attackRange: 3
   staffDamage: 50
   staffAttackPoint: {fileID: 1945091002}
