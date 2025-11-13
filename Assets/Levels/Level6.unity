@@ -15259,7 +15259,7 @@ MonoBehaviour:
   detectionRange: 8
   attackRange: 5
   attackCooldown: 2
-  maxHealth: 50
+  maxHealth: 100
   bulletPrefab: {fileID: 3145169693976634165, guid: ba3e54fce173b0642a3829d08a18f5f8, type: 3}
   firePoint: {fileID: 645339437}
   healthBar: {fileID: 898295952}

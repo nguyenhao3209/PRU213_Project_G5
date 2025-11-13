@@ -23,7 +23,8 @@ public class PlayerAttack : MonoBehaviour
         // ✅ Kết hợp cả hai logic: cooldown, TimeScale và điều kiện tấn công
         bool canAttackInput = Input.GetMouseButton(0);
         bool cooldownReady = cooldownTimer > attackCooldown;
-        bool canAttackState = playerMovement == null || playerMovement.canAttack();
+        // Cho phép tấn công ngay cả khi đang nhảy
+        bool canAttackState = true;
         bool gameRunning = Time.timeScale > 0;
 
         if (canAttackInput && cooldownReady && canAttackState && gameRunning)
