@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class BossBullet : MonoBehaviour
+public class BossBullet_lV6 : MonoBehaviour
 {
     public int damage = 1;       // sát thương gây cho player
     public float lifetime = 2f;   // tự hủy sau 3 giây

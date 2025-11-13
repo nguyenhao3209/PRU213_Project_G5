@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -65,9 +65,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1004
+    x: 1239.2
     y: 0
-    width: 532
+    width: 296.80005
     height: 716.8
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -95,7 +95,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 244.8
+    width: 301.6
     height: 352.8
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
@@ -121,7 +121,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 352.8
-    width: 1004
+    width: 1239.2
     height: 364
   m_MinSize: {x: 231, y: 276}
   m_MaxSize: {x: 10001, y: 10026}
@@ -221,7 +221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1004
+    width: 1239.2
     height: 716.8
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
@@ -247,7 +247,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1004
+    width: 1239.2
     height: 352.8
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
@@ -269,9 +269,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 244.8
+    x: 301.6
     y: 0
-    width: 759.2
+    width: 937.6
     height: 352.8
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -452,8 +452,8 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 376.8
-    width: 1003
+    y: 432
+    width: 1238.2
     height: 338
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -477,7 +477,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Pixel Adventure 1/Assets/Terrain
+    - Assets/Scripts/Enemy
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -487,16 +487,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sprites/Pixel Adventure 1/Assets/Terrain
+  - Assets/Scripts/Enemy
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Project_game\1\PRU213_Project_G5
+  m_LastProjectPath: D:\FPT_courses\2025_FA25\PRU212\Project\MinhANh\PRU213_Project_G5
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 242}
-    m_SelectedIDs: f4950000
-    m_LastClickedID: 38388
-    m_ExpandedIDs: 00000000088500000a8500000c8500000e8500001085000012850000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 88ff0000
+    m_LastClickedID: 65416
+    m_ExpandedIDs: 00000000b8b30000ccb3000088ff000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000088500000a8500000c8500000e8500001085000012850000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 300}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -587,9 +587,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1005
-    y: 24
-    width: 531
+    x: 1239.2001
+    y: 79.200005
+    width: 295.80005
     height: 690.8
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -637,8 +637,8 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
-    width: 243.8
+    y: 79.200005
+    width: 300.6
     height: 326.8
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -653,10 +653,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2.2000122}
+      scrollPos: {x: 0, y: 120}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 76fffeff9afffeffb0fffeff92daffffb0ddffff8ce4fffff6f1ffff02f9ffff06fbffff00910000e69100001e920000389200005c920000609200007892000022930000be93000078950000
+      m_ExpandedIDs: 1ebefeffcec4feff3cd8feffc2f4feff80cf000088d10000b8d40000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -702,9 +702,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 245.8
-    y: 24
-    width: 757.2
+    x: 301.6
+    y: 79.200005
+    width: 935.6
     height: 326.8
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1162,9 +1162,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 17.64208, y: 4.565984, z: -0.042937707}
+    m_Target: {x: 137.18001, y: -0.7570219, z: -0.013267732}
     speed: 2
-    m_Value: {x: 17.64208, y: 4.565984, z: -0.042937707}
+    m_Value: {x: 137.18001, y: -0.7570219, z: -0.013267732}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1205,7 +1205,7 @@ MonoBehaviour:
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
+      m_Size: {x: 4, y: 4}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
@@ -1214,9 +1214,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.66949
+    m_Target: 4.4700403
     speed: 2
-    m_Value: 13.66949
+    m_Value: 4.4700403
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1271,9 +1271,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 244.8
+    x: 301.6
     y: 79.200005
-    width: 757.2
+    width: 935.6
     height: 326.8
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 757.2, y: 305.8}
+  m_TargetSize: {x: 935.6, y: 305.8}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1307,8 +1307,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -302.88
-    m_HBaseRangeMax: 302.88
+    m_HBaseRangeMin: -374.24
+    m_HBaseRangeMax: 374.24
     m_VBaseRangeMin: -122.32
     m_VBaseRangeMax: 122.32
     m_HAllowExceedBaseRangeMin: 1
@@ -1317,9 +1317,9 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1328,23 +1328,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 757.2
+      width: 935.6
       height: 305.8
     m_Scale: {x: 1.25, y: 1.25}
-    m_Translation: {x: 378.6, y: 152.9}
+    m_Translation: {x: 467.8, y: 152.9}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -302.88
+      x: -374.24
       y: -122.31999
-      width: 605.76
+      width: 748.48
       height: 244.63998
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 946.5, y: 408.5}
+  m_LastWindowPixelSize: {x: 1169.5, y: 408.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

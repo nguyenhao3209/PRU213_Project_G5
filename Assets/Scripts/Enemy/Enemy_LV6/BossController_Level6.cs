@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BossController : MonoBehaviour
+public class BossController_Level6 : MonoBehaviour
 {
     [Header("Boss Settings")]
     public float moveSpeed = 2f;
