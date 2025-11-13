@@ -1,0 +1,7357 @@
+fileFormatVersion: 2
+guid: 8ebaaa2a4975bd542bd33841708848cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 838425290341145430
+    second: Galamoth_0
+  - first:
+      213: 1128347141551352936
+    second: Galamoth_1
+  - first:
+      213: 6607476047453670841
+    second: Galamoth_2
+  - first:
+      213: -9219426009265279952
+    second: Galamoth_3
+  - first:
+      213: -2713474095867729840
+    second: Galamoth_4
+  - first:
+      213: 7151064292099910181
+    second: Galamoth_5
+  - first:
+      213: -6789243513070764090
+    second: Galamoth_6
+  - first:
+      213: -2284605105168477634
+    second: Galamoth_7
+  - first:
+      213: 4049866840155610214
+    second: Galamoth_8
+  - first:
+      213: 2654816307258140811
+    second: Galamoth_9
+  - first:
+      213: 2526415029367345504
+    second: Galamoth_10
+  - first:
+      213: -2077347208458536708
+    second: Galamoth_11
+  - first:
+      213: -3962174042438205922
+    second: Galamoth_12
+  - first:
+      213: 5212632415590700528
+    second: Galamoth_13
+  - first:
+      213: 7182431330595307447
+    second: Galamoth_14
+  - first:
+      213: -9029582011079325739
+    second: Galamoth_15
+  - first:
+      213: 203451604370951436
+    second: Galamoth_16
+  - first:
+      213: -1231796274575411831
+    second: Galamoth_17
+  - first:
+      213: 975640510239150045
+    second: Galamoth_18
+  - first:
+      213: -3457306503204268262
+    second: Galamoth_19
+  - first:
+      213: 4564560738846146316
+    second: Galamoth_20
+  - first:
+      213: -8055048994659302982
+    second: Galamoth_21
+  - first:
+      213: -8076241412073273162
+    second: Galamoth_22
+  - first:
+      213: -3831888452398592392
+    second: Galamoth_23
+  - first:
+      213: -3603561339941388952
+    second: Galamoth_24
+  - first:
+      213: 5901811155696512155
+    second: Galamoth_25
+  - first:
+      213: 1603757916057418458
+    second: Galamoth_26
+  - first:
+      213: -2574196618370466864
+    second: Galamoth_27
+  - first:
+      213: -6903060673334891358
+    second: Galamoth_28
+  - first:
+      213: -8953225392973411171
+    second: Galamoth_29
+  - first:
+      213: -8038998821294657351
+    second: Galamoth_30
+  - first:
+      213: 1162037761378188214
+    second: Galamoth_31
+  - first:
+      213: -3613929892719050651
+    second: Galamoth_32
+  - first:
+      213: -7590042249027667589
+    second: Galamoth_33
+  - first:
+      213: -2632984543847678089
+    second: Galamoth_34
+  - first:
+      213: -4693647748953183857
+    second: Galamoth_35
+  - first:
+      213: -3329222342504527809
+    second: Galamoth_36
+  - first:
+      213: 2117129854827353379
+    second: Galamoth_37
+  - first:
+      213: 4846937893491341604
+    second: Galamoth_38
+  - first:
+      213: -2623807974269893621
+    second: Galamoth_39
+  - first:
+      213: -4530012730683579487
+    second: Galamoth_40
+  - first:
+      213: 113357147903647281
+    second: Galamoth_41
+  - first:
+      213: -3969916316421451326
+    second: Galamoth_42
+  - first:
+      213: 1490421974687926693
+    second: Galamoth_43
+  - first:
+      213: -5587238141964327821
+    second: Galamoth_44
+  - first:
+      213: 6866794862389634866
+    second: Galamoth_45
+  - first:
+      213: -9184544005536374306
+    second: Galamoth_46
+  - first:
+      213: -4582988715620165458
+    second: Galamoth_47
+  - first:
+      213: 5856328267649535979
+    second: Galamoth_48
+  - first:
+      213: -4450390899376493660
+    second: Galamoth_49
+  - first:
+      213: -7067617736171185660
+    second: Galamoth_50
+  - first:
+      213: 7786699971440078575
+    second: Galamoth_51
+  - first:
+      213: -4124915494882508563
+    second: Galamoth_52
+  - first:
+      213: -8563297199262525619
+    second: Galamoth_53
+  - first:
+      213: -5951237608102095104
+    second: Galamoth_54
+  - first:
+      213: 8901043893734790729
+    second: Galamoth_55
+  - first:
+      213: -4537855435229761275
+    second: Galamoth_56
+  - first:
+      213: 6411116033792537412
+    second: Galamoth_57
+  - first:
+      213: -2006584123276987193
+    second: Galamoth_58
+  - first:
+      213: 1839108530861805188
+    second: Galamoth_59
+  - first:
+      213: 5485925587593516321
+    second: Galamoth_60
+  - first:
+      213: -8022529290711021382
+    second: Galamoth_61
+  - first:
+      213: 6248548650104267467
+    second: Galamoth_62
+  - first:
+      213: 4126409314906854231
+    second: Galamoth_63
+  - first:
+      213: 707405555060059416
+    second: Galamoth_64
+  - first:
+      213: -2103480923649475732
+    second: Galamoth_65
+  - first:
+      213: 22381570493256678
+    second: Galamoth_66
+  - first:
+      213: 4327134804200881310
+    second: Galamoth_67
+  - first:
+      213: -2183616215342538391
+    second: Galamoth_68
+  - first:
+      213: -4828136017030597156
+    second: Galamoth_69
+  - first:
+      213: -7797436231872386886
+    second: Galamoth_70
+  - first:
+      213: 8267755516411604718
+    second: Galamoth_71
+  - first:
+      213: -7794945724803349636
+    second: Galamoth_72
+  - first:
+      213: -518355702053527228
+    second: Galamoth_74
+  - first:
+      213: 673757229208377536
+    second: Galamoth_75
+  - first:
+      213: -6599839841921172255
+    second: Galamoth_76
+  - first:
+      213: 5221523421976952610
+    second: Galamoth_77
+  - first:
+      213: 7276553870589193368
+    second: Galamoth_78
+  - first:
+      213: 2473618058756976153
+    second: Galamoth_79
+  - first:
+      213: 2219499301416496259
+    second: Galamoth_80
+  - first:
+      213: 2007551682536834682
+    second: Galamoth_81
+  - first:
+      213: 7841107828674683992
+    second: Galamoth_82
+  - first:
+      213: 7668955194709709197
+    second: Galamoth_83
+  - first:
+      213: 5799982526039431718
+    second: Galamoth_84
+  - first:
+      213: -636063262009789010
+    second: Galamoth_85
+  - first:
+      213: 5539220324174261881
+    second: Galamoth_86
+  - first:
+      213: 7537407411940520759
+    second: Galamoth_87
+  - first:
+      213: 4167593883616709922
+    second: Galamoth_88
+  - first:
+      213: 8333896681066342056
+    second: Galamoth_89
+  - first:
+      213: -2475936380798290680
+    second: Galamoth_90
+  - first:
+      213: 3778405007038469216
+    second: Galamoth_91
+  - first:
+      213: 4626461978655731448
+    second: Galamoth_92
+  - first:
+      213: 5942744391899087702
+    second: Galamoth_93
+  - first:
+      213: 8962748296699235420
+    second: Galamoth_94
+  - first:
+      213: -6620185668881707515
+    second: Galamoth_95
+  - first:
+      213: 5776750426040148429
+    second: Galamoth_96
+  - first:
+      213: 1858205501106785314
+    second: Galamoth_97
+  - first:
+      213: 3884426372973472287
+    second: Galamoth_98
+  - first:
+      213: -9051536483125804682
+    second: Galamoth_99
+  - first:
+      213: -6127401638860174567
+    second: Galamoth_100
+  - first:
+      213: -3256968290797556385
+    second: Galamoth_101
+  - first:
+      213: 7453825211566983358
+    second: Galamoth_102
+  - first:
+      213: -5659700294642951583
+    second: Galamoth_103
+  - first:
+      213: -9159534378125495388
+    second: Galamoth_104
+  - first:
+      213: -8995540657068401082
+    second: Galamoth_105
+  - first:
+      213: 4048638116162872638
+    second: Galamoth_106
+  - first:
+      213: -3818845345051487044
+    second: Galamoth_107
+  - first:
+      213: 8618668190342439365
+    second: Galamoth_108
+  - first:
+      213: -1848306679996687004
+    second: Galamoth_109
+  - first:
+      213: -5891717402060693239
+    second: Galamoth_110
+  - first:
+      213: 5144755991937191097
+    second: Galamoth_111
+  - first:
+      213: 5877689153091138843
+    second: Galamoth_112
+  - first:
+      213: 5129123486190893290
+    second: Galamoth_113
+  - first:
+      213: -5135613281792682573
+    second: Galamoth_114
+  - first:
+      213: 1505072397792896245
+    second: Galamoth_115
+  - first:
+      213: 4799781569991158015
+    second: Galamoth_116
+  - first:
+      213: -703843598302011566
+    second: Galamoth_117
+  - first:
+      213: 826590773530590834
+    second: Galamoth_118
+  - first:
+      213: 6761433473601318137
+    second: Galamoth_119
+  - first:
+      213: 5486152725696422465
+    second: Galamoth_120
+  - first:
+      213: -4987191884533245100
+    second: Galamoth_121
+  - first:
+      213: 6479190905116678053
+    second: Galamoth_122
+  - first:
+      213: -8873674405440076866
+    second: Galamoth_123
+  - first:
+      213: 1312786399107651346
+    second: Galamoth_124
+  - first:
+      213: 1302765836787785654
+    second: Galamoth_125
+  - first:
+      213: -6412647179304759393
+    second: Galamoth_126
+  - first:
+      213: 8103643434276656530
+    second: Galamoth_127
+  - first:
+      213: 2523078653232502552
+    second: Galamoth_128
+  - first:
+      213: -1876304600411574373
+    second: Galamoth_129
+  - first:
+      213: 5948728355668013007
+    second: Galamoth_130
+  - first:
+      213: -5785380947379127118
+    second: Galamoth_131
+  - first:
+      213: 98007610486175945
+    second: Galamoth_132
+  - first:
+      213: -8945835812218516277
+    second: Galamoth_133
+  - first:
+      213: -7064081265409421587
+    second: Galamoth_134
+  - first:
+      213: 909320714265219997
+    second: Galamoth_135
+  - first:
+      213: -5661592520429864066
+    second: Galamoth_136
+  - first:
+      213: -6215004826716719751
+    second: Galamoth_137
+  - first:
+      213: -8862893402848030748
+    second: Galamoth_138
+  - first:
+      213: 8477750599479048068
+    second: Galamoth_139
+  - first:
+      213: -7064221826505919016
+    second: Galamoth_140
+  - first:
+      213: 7255306416604196203
+    second: Galamoth_141
+  - first:
+      213: -7681374649275688302
+    second: Galamoth_142
+  - first:
+      213: -3072757754510803888
+    second: Galamoth_143
+  - first:
+      213: 3715210071572217438
+    second: Galamoth_144
+  - first:
+      213: 3143181131578219600
+    second: Galamoth_145
+  - first:
+      213: -7553501173602080988
+    second: Galamoth_146
+  - first:
+      213: -4746835799314416666
+    second: Galamoth_147
+  - first:
+      213: 2366697501650896483
+    second: Galamoth_148
+  - first:
+      213: -7083430819557610511
+    second: Galamoth_149
+  - first:
+      213: 1882703440295829843
+    second: Galamoth_150
+  - first:
+      213: 5681570899237348004
+    second: Galamoth_151
+  - first:
+      213: -1009608757356748601
+    second: Galamoth_152
+  - first:
+      213: -3362757788471026300
+    second: Galamoth_153
+  - first:
+      213: 7919911676322224670
+    second: Galamoth_154
+  - first:
+      213: -4710178951206009199
+    second: Galamoth_155
+  - first:
+      213: 2030307952267566219
+    second: Galamoth_156
+  - first:
+      213: -7980937205040193100
+    second: Galamoth_157
+  - first:
+      213: 5684466808441966160
+    second: Galamoth_158
+  - first:
+      213: 2690371165943806190
+    second: Galamoth_159
+  - first:
+      213: 5101139571643468546
+    second: Galamoth_160
+  - first:
+      213: 3589674866049122752
+    second: Galamoth_161
+  - first:
+      213: 8572049887921246742
+    second: Galamoth_162
+  - first:
+      213: 4435843302413661874
+    second: Galamoth_163
+  - first:
+      213: 4420505395016038210
+    second: Galamoth_164
+  - first:
+      213: -758679731804885707
+    second: Galamoth_165
+  - first:
+      213: -2466393369187207310
+    second: Galamoth_166
+  - first:
+      213: -8541876777971111437
+    second: Galamoth_167
+  - first:
+      213: -1870566275380988248
+    second: Galamoth_168
+  - first:
+      213: -6817067506303397915
+    second: Galamoth_169
+  - first:
+      213: 1497064618907588710
+    second: Galamoth_170
+  - first:
+      213: -8623353652632983963
+    second: Galamoth_171
+  - first:
+      213: -6462206297990160184
+    second: Galamoth_172
+  - first:
+      213: 6763456237729076659
+    second: Galamoth_173
+  - first:
+      213: 6035820535443989363
+    second: Galamoth_174
+  - first:
+      213: -3945956669740736544
+    second: Galamoth_175
+  - first:
+      213: 8034405431687388564
+    second: Galamoth_176
+  - first:
+      213: 7548469813706283653
+    second: Galamoth_177
+  - first:
+      213: -2550344542044998231
+    second: Galamoth_178
+  - first:
+      213: -8897849829788153934
+    second: Galamoth_179
+  - first:
+      213: -7709518403041219750
+    second: Galamoth_180
+  - first:
+      213: 3927489984784851429
+    second: Galamoth_181
+  - first:
+      213: 506367952420231446
+    second: Galamoth_182
+  - first:
+      213: 6817360706683384385
+    second: Galamoth_183
+  - first:
+      213: -3014337086608735758
+    second: Galamoth_184
+  - first:
+      213: 1667991927140604836
+    second: Galamoth_185
+  - first:
+      213: 720803956739545192
+    second: Galamoth_186
+  - first:
+      213: -1740979927773743925
+    second: Galamoth_187
+  - first:
+      213: -5748088736826784957
+    second: Galamoth_188
+  - first:
+      213: -5001274662670852231
+    second: Galamoth_189
+  - first:
+      213: -2558940789338813008
+    second: Galamoth_190
+  - first:
+      213: 8102474254089680552
+    second: Galamoth_191
+  - first:
+      213: -2567137169646177340
+    second: Galamoth_192
+  - first:
+      213: 4271470128319432247
+    second: Galamoth_193
+  - first:
+      213: 3441451300602175119
+    second: Galamoth_194
+  - first:
+      213: -6251723204379718189
+    second: Galamoth_195
+  - first:
+      213: -4219806736117664498
+    second: Galamoth_196
+  - first:
+      213: 8031851956118467300
+    second: Galamoth_197
+  - first:
+      213: -6664871645013309392
+    second: Galamoth_198
+  - first:
+      213: 4556398213242513407
+    second: Galamoth_199
+  - first:
+      213: 6610878637011920956
+    second: Galamoth_200
+  - first:
+      213: 7453706004130651953
+    second: Galamoth_201
+  - first:
+      213: 1258964144892785284
+    second: Galamoth_202
+  - first:
+      213: 601767008682653029
+    second: Galamoth_203
+  - first:
+      213: -2488933635011089164
+    second: Galamoth_204
+  - first:
+      213: 2039136750454514750
+    second: Galamoth_205
+  - first:
+      213: -4281479222505730494
+    second: Galamoth_206
+  - first:
+      213: -4072743776585901533
+    second: Galamoth_207
+  - first:
+      213: 7769544504936537270
+    second: Galamoth_208
+  - first:
+      213: -5655709026032560800
+    second: Galamoth_209
+  - first:
+      213: -4659398331117566795
+    second: Galamoth_210
+  - first:
+      213: -3895168192134304650
+    second: Galamoth_211
+  - first:
+      213: -6659085439015320051
+    second: Galamoth_212
+  - first:
+      213: -531168773130800163
+    second: Galamoth_213
+  - first:
+      213: -1661637403114165841
+    second: Galamoth_214
+  - first:
+      213: 5310203956507980703
+    second: Galamoth_215
+  - first:
+      213: 498574119996173821
+    second: Galamoth_216
+  - first:
+      213: -5777088464911813603
+    second: Galamoth_217
+  - first:
+      213: -7881195535791695448
+    second: Galamoth_218
+  - first:
+      213: 6081102834512016022
+    second: Galamoth_219
+  - first:
+      213: -3500349098120180792
+    second: Galamoth_220
+  - first:
+      213: 7803402420103282352
+    second: Galamoth_221
+  - first:
+      213: -9076004721330604717
+    second: Galamoth_222
+  - first:
+      213: -1534104438567419045
+    second: Galamoth_223
+  - first:
+      213: -4848166299288418871
+    second: Galamoth_224
+  - first:
+      213: -9126578753270171786
+    second: Galamoth_225
+  - first:
+      213: -3458195091031151904
+    second: Galamoth_226
+  - first:
+      213: 4655149813671106286
+    second: Galamoth_227
+  - first:
+      213: -7184669781429979027
+    second: Galamoth_228
+  - first:
+      213: -1247937168836966496
+    second: Galamoth_229
+  - first:
+      213: -186576805222218261
+    second: Galamoth_230
+  - first:
+      213: -3729410404315211054
+    second: Galamoth_231
+  - first:
+      213: 7187291003753547952
+    second: Galamoth_232
+  - first:
+      213: 6135293392972216778
+    second: Galamoth_233
+  - first:
+      213: 6076342543803738199
+    second: Galamoth_234
+  - first:
+      213: 5287777078591246257
+    second: Galamoth_235
+  - first:
+      213: 3948183330655027137
+    second: Galamoth_236
+  - first:
+      213: 1119173753989959889
+    second: Galamoth_237
+  - first:
+      213: -2030493612582043268
+    second: Galamoth_238
+  - first:
+      213: -5977828305017564306
+    second: Galamoth_239
+  - first:
+      213: 1835380608317403930
+    second: Galamoth_240
+  - first:
+      213: 2172558155086933806
+    second: Galamoth_241
+  - first:
+      213: 9042940461595720947
+    second: Galamoth_242
+  - first:
+      213: -5161395151562541743
+    second: Galamoth_243
+  - first:
+      213: -4449628610271427503
+    second: Galamoth_244
+  - first:
+      213: -980841681214684077
+    second: Galamoth_245
+  - first:
+      213: 3732091915182171642
+    second: Galamoth_246
+  - first:
+      213: 2315292277129653186
+    second: Galamoth_247
+  - first:
+      213: -7103839578887876870
+    second: Galamoth_248
+  - first:
+      213: 2990124465925603270
+    second: Galamoth_249
+  - first:
+      213: 1654977795526898503
+    second: Galamoth_250
+  - first:
+      213: -2508890549948895489
+    second: Galamoth_251
+  - first:
+      213: 5215297162922290952
+    second: Galamoth_252
+  - first:
+      213: -8940595077401446027
+    second: Galamoth_253
+  - first:
+      213: 8632994616473797840
+    second: Galamoth_254
+  - first:
+      213: 8694326966212160315
+    second: Galamoth_255
+  - first:
+      213: 3266020973175245082
+    second: Galamoth_256
+  - first:
+      213: -5918177357441633915
+    second: Galamoth_257
+  - first:
+      213: -1974259103413665656
+    second: Galamoth_258
+  - first:
+      213: -1749972437381776139
+    second: Galamoth_259
+  - first:
+      213: 9201957396279037651
+    second: Galamoth_260
+  - first:
+      213: -27299351705068892
+    second: Galamoth_261
+  - first:
+      213: -1982855892300715446
+    second: Galamoth_262
+  - first:
+      213: -1959622395206574400
+    second: Galamoth_263
+  - first:
+      213: -4578846339240090273
+    second: Galamoth_264
+  - first:
+      213: 876509247308810050
+    second: Galamoth_265
+  - first:
+      213: 3258358495662110048
+    second: Galamoth_266
+  - first:
+      213: 3242940637092051030
+    second: Galamoth_267
+  - first:
+      213: 2179339027678516161
+    second: Galamoth_268
+  - first:
+      213: -3590792412264476481
+    second: Galamoth_269
+  - first:
+      213: 7616837553838784745
+    second: Galamoth_270
+  - first:
+      213: -3635095258216070446
+    second: Galamoth_271
+  - first:
+      213: -7765020136301793269
+    second: Galamoth_272
+  - first:
+      213: -5720063065014619179
+    second: Galamoth_273
+  - first:
+      213: -7911062220597752400
+    second: Galamoth_274
+  - first:
+      213: -1261656641926484567
+    second: Galamoth_275
+  - first:
+      213: -1222655735272285999
+    second: Galamoth_276
+  - first:
+      213: -2085654292271845561
+    second: Galamoth_277
+  - first:
+      213: -3685387146721306846
+    second: Galamoth_278
+  - first:
+      213: 1356763664952511436
+    second: Galamoth_279
+  - first:
+      213: -2493899537193103243
+    second: Galamoth_280
+  - first:
+      213: 5273689690546508759
+    second: Galamoth_281
+  - first:
+      213: -4789238545182880431
+    second: Galamoth_282
+  - first:
+      213: -4362899021969865970
+    second: Galamoth_283
+  - first:
+      213: 205581456158965395
+    second: Galamoth_284
+  - first:
+      213: 6361313968889902952
+    second: Galamoth_285
+  - first:
+      213: 6742814525634650204
+    second: Galamoth_286
+  - first:
+      213: 6677974473485328326
+    second: Galamoth_287
+  - first:
+      213: 6219279464909586408
+    second: Galamoth_288
+  - first:
+      213: -8685280624691651818
+    second: Galamoth_289
+  - first:
+      213: 7179948245861430557
+    second: Galamoth_290
+  - first:
+      213: 8683874478293501394
+    second: Galamoth_291
+  - first:
+      213: 5345929857613886468
+    second: Galamoth_292
+  - first:
+      213: 2214070462097304728
+    second: Galamoth_293
+  - first:
+      213: -6680762017393427761
+    second: Galamoth_294
+  - first:
+      213: 4239973726804387298
+    second: Galamoth_295
+  - first:
+      213: -2977152070586550876
+    second: Galamoth_296
+  - first:
+      213: 3270808894730081783
+    second: Galamoth_297
+  - first:
+      213: -1745451507364750753
+    second: Galamoth_298
+  - first:
+      213: 5274383828237960877
+    second: Galamoth_299
+  - first:
+      213: 5993381114617157841
+    second: Galamoth_73
+  - first:
+      213: -6400654477273066569
+    second: Galamoth_300
+  - first:
+      213: -8495684174878086288
+    second: Galamoth_301
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galamoth_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3730
+        width: 145
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdc710c5fa2ab00800000000000000
+      internalID: 838425290341145430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3730
+        width: 145
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cee7b3fb1b8af00800000000000000
+      internalID: 1128347141551352936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3730
+        width: 146
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc06e057872bb50800000000000000
+      internalID: 6607476047453670841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3729
+        width: 146
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ceeb424e40e0080800000000000000
+      internalID: -9219426009265279952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3727
+        width: 146
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586498bfadc75ad0800000000000000
+      internalID: -2713474095867729840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3727
+        width: 146
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6890f51fad3360800000000000000
+      internalID: 7151064292099910181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_6
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3727
+        width: 146
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfbacdeef2c7c1a0800000000000000
+      internalID: -6789243513070764090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3727
+        width: 145
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32936ed2c37b40e0800000000000000
+      internalID: -2284605105168477634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_8
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 3727
+        width: 145
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cdb1b1f64043830800000000000000
+      internalID: 4049866840155610214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3728
+        width: 145
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88290a9d5dc7d420800000000000000
+      internalID: 2654816307258140811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_10
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 3728
+        width: 145
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06116ac6511af0320800000000000000
+      internalID: 2526415029367345504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_11
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3729
+        width: 144
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8fdac58b7cb23e0800000000000000
+      internalID: -2077347208458536708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_12
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 3729
+        width: 144
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e723e63b78309c0800000000000000
+      internalID: -3962174042438205922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_13
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 3730
+        width: 144
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f558f3709df65840800000000000000
+      internalID: 5212632415590700528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_14
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3730
+        width: 143
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff4c3bd3f1da360800000000000000
+      internalID: 7182431330595307447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3730
+        width: 144
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70c5f600b70b280800000000000000
+      internalID: -9029582011079325739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_16
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 3730
+        width: 140
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d838ff72ec2d200800000000000000
+      internalID: 203451604370951436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_17
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3730
+        width: 139
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985784a80d7c7eee0800000000000000
+      internalID: -1231796274575411831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_18
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 3730
+        width: 140
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0949ffdb2a8d00800000000000000
+      internalID: 975640510239150045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_19
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3730
+        width: 142
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a179cdc8d0e2500d0800000000000000
+      internalID: -3457306503204268262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_20
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 3730
+        width: 139
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7e92dec3985f30800000000000000
+      internalID: 4564560738846146316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_21
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 3730
+        width: 138
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab107f8ed97b63090800000000000000
+      internalID: -8055048994659302982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_22
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 3730
+        width: 135
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c219b93d6bef80800000000000000
+      internalID: -8076241412073273162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_23
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 3730
+        width: 132
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4cd731c562dac0800000000000000
+      internalID: -3831888452398592392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_24
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3730
+        width: 129
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d7676cd049dfdc0800000000000000
+      internalID: -3603561339941388952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_25
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3730
+        width: 125
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6aba1af177e150800000000000000
+      internalID: 5901811155696512155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_26
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 3730
+        width: 121
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab25cd351b14610800000000000000
+      internalID: 1603757916057418458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_27
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 3730
+        width: 118
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db340470dd964cd0800000000000000
+      internalID: -2574196618370466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_28
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 3730
+        width: 114
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca7ee34e66330a0800000000000000
+      internalID: -6903060673334891358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_29
+      rect:
+        serializedVersion: 2
+        x: 4907
+        y: 3730
+        width: 113
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c00d9f0f0cfb380800000000000000
+      internalID: -8953225392973411171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_30
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 3730
+        width: 110
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b2fa1a2dbf6090800000000000000
+      internalID: -8038998821294657351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_31
+      rect:
+        serializedVersion: 2
+        x: 5241
+        y: 3730
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb798eef23602010800000000000000
+      internalID: 1162037761378188214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3457
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c055f8edb8ddc0800000000000000
+      internalID: -3613929892719050651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3457
+        width: 106
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bf7cc9c0caa690800000000000000
+      internalID: -7590042249027667589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3457
+        width: 105
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f7ddce182c57bd0800000000000000
+      internalID: -2632984543847678089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3457
+        width: 104
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8965d68d30dcdeb0800000000000000
+      internalID: -4693647748953183857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3457
+        width: 103
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3849b02be93cc1d0800000000000000
+      internalID: -3329222342504527809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_37
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3457
+        width: 103
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325db5cc26e816d10800000000000000
+      internalID: 2117129854827353379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_38
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3457
+        width: 105
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297eed7558c34340800000000000000
+      internalID: 4846937893491341604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_39
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3457
+        width: 110
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044ec68c8c569bd0800000000000000
+      internalID: -2623807974269893621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_40
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3457
+        width: 116
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ab972c692221c0800000000000000
+      internalID: -4530012730683579487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3457
+        width: 108
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5c85b9b9b29100800000000000000
+      internalID: 113357147903647281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_42
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3457
+        width: 105
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11cabc42608e8c0800000000000000
+      internalID: -3969916316421451326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_43
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3457
+        width: 105
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c5bea3ea0fa410800000000000000
+      internalID: 1490421974687926693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_44
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3457
+        width: 106
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e3b823842672b0800000000000000
+      internalID: -5587238141964327821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3457
+        width: 107
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372636ab81cb4f50800000000000000
+      internalID: 6866794862389634866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_46
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3457
+        width: 109
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1af0683e1f98080800000000000000
+      internalID: -9184544005536374306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_47
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 3457
+        width: 109
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea816db7b04f560c0800000000000000
+      internalID: -4582988715620165458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_48
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3457
+        width: 112
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4451088bd54150800000000000000
+      internalID: 5856328267649535979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_49
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3457
+        width: 113
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab68036e090d32c0800000000000000
+      internalID: -4450390899376493660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_50
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 3457
+        width: 115
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a14436d17caed90800000000000000
+      internalID: -7067617736171185660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3457
+        width: 116
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeea3a4e5aef0c60800000000000000
+      internalID: 7786699971440078575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_52
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3457
+        width: 122
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0060f463b51c6c0800000000000000
+      internalID: -4124915494882508563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_53
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3457
+        width: 116
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471cdb419e092980800000000000000
+      internalID: -8563297199262525619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_54
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 3457
+        width: 115
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007112b2de4f86da0800000000000000
+      internalID: -5951237608102095104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_55
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 3457
+        width: 113
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d838f24cd68b70800000000000000
+      internalID: 8901043893734790729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_56
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3457
+        width: 112
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501fd05368c4601c0800000000000000
+      internalID: -4537855435229761275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_57
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3457
+        width: 110
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f300b01cd8f850800000000000000
+      internalID: 6411116033792537412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_58
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3457
+        width: 109
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f2280f5e2724e0800000000000000
+      internalID: -2006584123276987193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_59
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 3457
+        width: 107
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e886df673d58910800000000000000
+      internalID: 1839108530861805188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_60
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 3457
+        width: 106
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125dcb8914ce12c40800000000000000
+      internalID: 5485925587593516321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_61
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3457
+        width: 105
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c0038d104aa090800000000000000
+      internalID: -8022529290711021382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_62
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 3457
+        width: 105
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2263b14ed47b650800000000000000
+      internalID: 6248548650104267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_63
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3457
+        width: 108
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d2e4c863f34930800000000000000
+      internalID: 4126409314906854231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_64
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 3457
+        width: 116
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2e75ba9531d900800000000000000
+      internalID: 707405555060059416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_65
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 3457
+        width: 109
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bff02ae3feec2e0800000000000000
+      internalID: -2103480923649475732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_66
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 3457
+        width: 105
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e314c67be38f4000800000000000000
+      internalID: 22381570493256678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_67
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 3457
+        width: 103
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c7f93ad221d0c30800000000000000
+      internalID: 4327134804200881310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_68
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 3457
+        width: 103
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a9b61f9c32b1e0800000000000000
+      internalID: -2183616215342538391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_69
+      rect:
+        serializedVersion: 2
+        x: 4890
+        y: 3457
+        width: 104
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53f918fd30ffcb0800000000000000
+      internalID: -4828136017030597156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_70
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 3457
+        width: 106
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab86c784f01f9c390800000000000000
+      internalID: -7797436231872386886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_71
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 3457
+        width: 107
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6d7576d7fcb270800000000000000
+      internalID: 8267755516411604718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_72
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 3457
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7385a5a92ac2d390800000000000000
+      internalID: -7794945724803349636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3157
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4412dcf3c3e6ec8f0800000000000000
+      internalID: -518355702053527228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_75
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3157
+        width: 97
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c811d751aaa95900800000000000000
+      internalID: 673757229208377536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3157
+        width: 99
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec71d791a8a864a0800000000000000
+      internalID: -6599839841921172255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_77
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3157
+        width: 104
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f715133e3967840800000000000000
+      internalID: 5221523421976952610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_78
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 3157
+        width: 108
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c667541338bf460800000000000000
+      internalID: 7276553870589193368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_79
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 3157
+        width: 111
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e6336c48e045220800000000000000
+      internalID: 2473618058756976153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_80
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3157
+        width: 115
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6820fade3dce10800000000000000
+      internalID: 2219499301416496259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_81
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3157
+        width: 118
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7688d96e914cdb10800000000000000
+      internalID: 2007551682536834682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_82
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3157
+        width: 122
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85460b5b60631dc60800000000000000
+      internalID: 7841107828674683992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_83
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3157
+        width: 135
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811f032e1a9d6a60800000000000000
+      internalID: 7668955194709709197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_84
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 3157
+        width: 147
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9d08b06dad7050800000000000000
+      internalID: 5799982526039431718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_85
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 3157
+        width: 157
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fa3d45df3c27f0800000000000000
+      internalID: -636063262009789010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_86
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 3157
+        width: 168
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee70b69834fdc40800000000000000
+      internalID: 5539220324174261881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_87
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3157
+        width: 177
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7337c143b104a9860800000000000000
+      internalID: 7537407411940520759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_88
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 3157
+        width: 184
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d80196e8446d930800000000000000
+      internalID: 4167593883616709922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_89
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 3157
+        width: 189
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a624c560e2f7a370800000000000000
+      internalID: 8333896681066342056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_90
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 3157
+        width: 191
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8053d00daf4b3add0800000000000000
+      internalID: -2475936380798290680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_91
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 3157
+        width: 194
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d516c5579f6430800000000000000
+      internalID: 3778405007038469216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2846
+        width: 193
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe20a458ae743040800000000000000
+      internalID: 4626461978655731448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2846
+        width: 191
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6530716d98ed87250800000000000000
+      internalID: 5942744391899087702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2846
+        width: 184
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ccef3d614126c70800000000000000
+      internalID: 8962748296699235420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_95
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2846
+        width: 169
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8c2b95306024a0800000000000000
+      internalID: -6620185668881707515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_96
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2846
+        width: 153
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a53ce7e32b2050800000000000000
+      internalID: 5776750426040148429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_97
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2846
+        width: 126
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c852dde0ca9c910800000000000000
+      internalID: 1858205501106785314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_98
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2846
+        width: 118
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2e35a43148e530800000000000000
+      internalID: 3884426372973472287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_99
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 2846
+        width: 118
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714cc3968b726280800000000000000
+      internalID: -9051536483125804682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_100
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2846
+        width: 119
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc79f7ca817faa0800000000000000
+      internalID: -6127401638860174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_101
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 2846
+        width: 116
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dec4e789cecc2d0800000000000000
+      internalID: -3256968290797556385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_102
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2846
+        width: 156
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80d41b98e417760800000000000000
+      internalID: 7453825211566983358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_103
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 2846
+        width: 204
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a12a28194b471b0800000000000000
+      internalID: -5659700294642951583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_104
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 2846
+        width: 234
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f9db230cc2e080800000000000000
+      internalID: -9159534378125495388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_105
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 2846
+        width: 252
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e9adcce6b692380800000000000000
+      internalID: -8995540657068401082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_106
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 2846
+        width: 247
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35aef18ae6af2830800000000000000
+      internalID: 4048638116162872638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_107
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 2846
+        width: 229
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45d0c446cb00bc0800000000000000
+      internalID: -3818845345051487044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_108
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 2846
+        width: 224
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e1523e09ab9770800000000000000
+      internalID: 8618668190342439365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_109
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 2846
+        width: 219
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd0d60ede7956e0800000000000000
+      internalID: -1848306679996687004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2564
+        width: 213
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016f2d0d3a6c3ea0800000000000000
+      internalID: -5891717402060693239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_111
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2564
+        width: 204
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8a7b0158d56740800000000000000
+      internalID: 5144755991937191097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_112
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2564
+        width: 194
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f926b42fb19150800000000000000
+      internalID: 5877689153091138843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_113
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2564
+        width: 180
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8758ba2ae4e2740800000000000000
+      internalID: 5129123486190893290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_114
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2564
+        width: 166
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b518fa0ee2aab8b0800000000000000
+      internalID: -5135613281792682573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_115
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2564
+        width: 157
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e0bf1f5713e410800000000000000
+      internalID: 1505072397792896245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_116
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2564
+        width: 141
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82ac658ef3c9240800000000000000
+      internalID: 4799781569991158015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_117
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2564
+        width: 124
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f96c9f9f17b36f0800000000000000
+      internalID: -703843598302011566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_118
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2564
+        width: 108
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef7e6dde3a87b00800000000000000
+      internalID: 826590773530590834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_119
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 2564
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc217eabef65dd50800000000000000
+      internalID: 6761433473601318137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2294
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422dae46dab22c40800000000000000
+      internalID: 5486152725696422465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_121
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2294
+        width: 119
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b5faf776fe9cab0800000000000000
+      internalID: -4987191884533245100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_122
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2294
+        width: 130
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7db6bccc5bae950800000000000000
+      internalID: 6479190905116678053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_123
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2294
+        width: 141
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3c44b94206ad480800000000000000
+      internalID: -8873674405440076866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_124
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2294
+        width: 150
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21796c84644f73210800000000000000
+      internalID: 1312786399107651346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_125
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2294
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf104f40aa541210800000000000000
+      internalID: 1302765836787785654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_126
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2294
+        width: 169
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f01a7bd53b107a0800000000000000
+      internalID: -6412647179304759393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_127
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2294
+        width: 201
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959c7eb4cce57070800000000000000
+      internalID: 8103643434276656530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_128
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2294
+        width: 201
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175b42daa6c30320800000000000000
+      internalID: 2523078653232502552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_129
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2294
+        width: 200
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f690238e606f5e0800000000000000
+      internalID: -1876304600411574373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_130
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2294
+        width: 198
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa2e8fbe02e8250800000000000000
+      internalID: 5948728355668013007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_131
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2294
+        width: 194
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc772d3ea236bfa0800000000000000
+      internalID: -5785380947379127118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_132
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2294
+        width: 185
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8305807613c5100800000000000000
+      internalID: 98007610486175945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_133
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 2294
+        width: 174
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc4fb1d9b10ad380800000000000000
+      internalID: -8945835812218516277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_134
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 2294
+        width: 160
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee87c6248757fd90800000000000000
+      internalID: -7064081265409421587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_135
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2294
+        width: 147
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93dea03f5e8e9c00800000000000000
+      internalID: 909320714265219997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_136
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2294
+        width: 131
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bf4cc599bfd61b0800000000000000
+      internalID: -5661592520429864066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_137
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2294
+        width: 124
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753632e90edfb9a0800000000000000
+      internalID: -6215004826716719751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_138
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 2294
+        width: 115
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0711686da00580800000000000000
+      internalID: -8862893402848030748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_139
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 2294
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bd40d04507a570800000000000000
+      internalID: 8477750599479048068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2035
+        width: 113
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5bd883da7d6fd90800000000000000
+      internalID: -7064221826505919016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_141
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2035
+        width: 131
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2e42eeb600b460800000000000000
+      internalID: 7255306416604196203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2035
+        width: 150
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5b334476466590800000000000000
+      internalID: -7681374649275688302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_143
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2035
+        width: 164
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7e893a1f5b55d0800000000000000
+      internalID: -3072757754510803888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_144
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2035
+        width: 181
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef30640e31f8330800000000000000
+      internalID: 3715210071572217438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_145
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2035
+        width: 201
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1e6cf592de9b20800000000000000
+      internalID: 3143181131578219600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_146
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2035
+        width: 220
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a3f8e3b29c2790800000000000000
+      internalID: -7553501173602080988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_147
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2035
+        width: 238
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb1c68df9df1eb0800000000000000
+      internalID: -4746835799314416666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_148
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2035
+        width: 249
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c4b4a6d238d020800000000000000
+      internalID: 2366697501650896483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_149
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2035
+        width: 260
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe631033992bd90800000000000000
+      internalID: -7083430819557610511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_150
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 2035
+        width: 269
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512d30ddc4b02a10800000000000000
+      internalID: 1882703440295829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_151
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 2035
+        width: 269
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22d3f61aef8de40800000000000000
+      internalID: 5681570899237348004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_152
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 2035
+        width: 269
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a0af2f262df1f0800000000000000
+      internalID: -1009608757356748601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_153
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 2035
+        width: 269
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d9188ab951551d0800000000000000
+      internalID: -3362757788471026300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_154
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 2035
+        width: 269
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a97a745bd29ed60800000000000000
+      internalID: 7919911676322224670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_155
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 2035
+        width: 270
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19608d0133512aeb0800000000000000
+      internalID: -4710178951206009199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_156
+      rect:
+        serializedVersion: 2
+        x: 5030
+        y: 2035
+        width: 269
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c1f87535a1d2c10800000000000000
+      internalID: 2030307952267566219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_157
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1771
+        width: 269
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b161e695e30e3190800000000000000
+      internalID: -7980937205040193100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_158
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1771
+        width: 259
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8ea6d17843ee40800000000000000
+      internalID: 5684466808441966160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_159
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1771
+        width: 248
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b80c325e165520800000000000000
+      internalID: 2690371165943806190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_160
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1771
+        width: 236
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4f75d963eac640800000000000000
+      internalID: 5101139571643468546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_161
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1771
+        width: 228
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c18102954611d130800000000000000
+      internalID: 3589674866049122752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_162
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1771
+        width: 219
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121976d4f906f670800000000000000
+      internalID: 8572049887921246742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_163
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1771
+        width: 218
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b679af3bf74f8d30800000000000000
+      internalID: 4435843302413661874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_164
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1771
+        width: 216
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f0a56c3ac85d30800000000000000
+      internalID: 4420505395016038210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_165
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1771
+        width: 212
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2b77bdc0a875f0800000000000000
+      internalID: -758679731804885707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_166
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 1771
+        width: 208
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b7395c4c95cdd0800000000000000
+      internalID: -2466393369187207310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_167
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1771
+        width: 199
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9afd5c358257980800000000000000
+      internalID: -8541876777971111437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_168
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1771
+        width: 190
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6371b12e96a06e0800000000000000
+      internalID: -1870566275380988248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_169
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1771
+        width: 179
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef8deca839e461a0800000000000000
+      internalID: -6817067506303397915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_170
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 1771
+        width: 167
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668dacfc654a6c410800000000000000
+      internalID: 1497064618907588710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_171
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1771
+        width: 149
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666e3a9a81b35880800000000000000
+      internalID: -8623353652632983963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_172
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 1771
+        width: 131
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c021073c91a156a0800000000000000
+      internalID: -6462206297990160184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_173
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 1771
+        width: 113
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ddb72d9f9cdd50800000000000000
+      internalID: 6763456237729076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_174
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 1771
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a52f3cca83c350800000000000000
+      internalID: 6035820535443989363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_175
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1421
+        width: 135
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1501c0552d39c0800000000000000
+      internalID: -3945956669740736544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1421
+        width: 173
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d12390c21ff7f60800000000000000
+      internalID: 8034405431687388564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_177
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1421
+        width: 205
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad8b35d4d81c860800000000000000
+      internalID: 7548469813706283653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_178
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1421
+        width: 219
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53d8cb62b5b9cd0800000000000000
+      internalID: -2550344542044998231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_179
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1421
+        width: 225
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b705bef8bc748480800000000000000
+      internalID: -8897849829788153934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_180
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1421
+        width: 214
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2465fbd9420590800000000000000
+      internalID: -7709518403041219750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_181
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1421
+        width: 197
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1610a155f318630800000000000000
+      internalID: 3927489984784851429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_182
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1421
+        width: 166
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61956a948faf60700800000000000000
+      internalID: 506367952420231446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_183
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1421
+        width: 134
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b19b51712c9e50800000000000000
+      internalID: 6817360706683384385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_184
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1421
+        width: 143
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1866fe36cea26d0800000000000000
+      internalID: -3014337086608735758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_185
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1421
+        width: 136
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5f6102d5e52710800000000000000
+      internalID: 1667991927140604836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_186
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1421
+        width: 158
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8681822316fc00a00800000000000000
+      internalID: 720803956739545192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_187
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1421
+        width: 184
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4f5f3dafbc6d7e0800000000000000
+      internalID: -1740979927773743925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_188
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 1421
+        width: 210
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3430400afbfaa30b0800000000000000
+      internalID: -5748088736826784957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_189
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1421
+        width: 219
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f97533137e79ab0800000000000000
+      internalID: -5001274662670852231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_190
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 1421
+        width: 225
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc332f8e0dc7cd0800000000000000
+      internalID: -2558940789338813008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_191
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 1421
+        width: 222
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a673c4c765c17070800000000000000
+      internalID: 8102474254089680552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_192
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 1421
+        width: 213
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b9817852bf5cd0800000000000000
+      internalID: -2567137169646177340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_193
+      rect:
+        serializedVersion: 2
+        x: 4859
+        y: 1421
+        width: 189
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360c23537f474b30800000000000000
+      internalID: 4271470128319432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_194
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 1421
+        width: 161
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed23c69bd72cf20800000000000000
+      internalID: 3441451300602175119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_195
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 1421
+        width: 127
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd41e06eda6d39a0800000000000000
+      internalID: -6251723204379718189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_196
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 1421
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f7e8812c3075c0800000000000000
+      internalID: -4219806736117664498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_197
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1110
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b7fcacced67f60800000000000000
+      internalID: 8031851956118467300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_198
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1110
+        width: 115
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03888650d8e9183a0800000000000000
+      internalID: -6664871645013309392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_199
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1110
+        width: 123
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76b8bb8049b3f30800000000000000
+      internalID: 4556398213242513407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_200
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1110
+        width: 131
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38605c281f8ebb50800000000000000
+      internalID: 6610878637011920956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_201
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1110
+        width: 139
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f576c8e12e07760800000000000000
+      internalID: 7453706004130651953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_202
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1110
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b941383db87110800000000000000
+      internalID: 1258964144892785284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_203
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1110
+        width: 151
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5653416f7e7e95800800000000000000
+      internalID: 601767008682653029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_204
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1110
+        width: 155
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc64afbb08857dd0800000000000000
+      internalID: -2488933635011089164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_205
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1110
+        width: 158
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34294b12187c4c10800000000000000
+      internalID: 2039136750454514750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_206
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1110
+        width: 157
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8455d4512594c0800000000000000
+      internalID: -4281479222505730494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_207
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1110
+        width: 156
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1a6f0d15ba77c0800000000000000
+      internalID: -4072743776585901533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_208
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1110
+        width: 156
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc945bff87f2db60800000000000000
+      internalID: 7769544504936537270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_209
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1110
+        width: 155
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065db562b92e281b0800000000000000
+      internalID: -5655709026032560800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_210
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1110
+        width: 154
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b480b687ed765fb0800000000000000
+      internalID: -4659398331117566795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_211
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 1110
+        width: 154
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2f6faa2591f9c0800000000000000
+      internalID: -3895168192134304650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_212
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 1110
+        width: 166
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060486131d2693a0800000000000000
+      internalID: -6659085439015320051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_213
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1110
+        width: 177
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd332c9a0d8e0a8f0800000000000000
+      internalID: -531168773130800163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_214
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 1110
+        width: 166
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a0e9e59da0f8e0800000000000000
+      internalID: -1661637403114165841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_215
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 1110
+        width: 155
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9338802d52a1b940800000000000000
+      internalID: 5310203956507980703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_216
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1110
+        width: 126
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2394458a4be600800000000000000
+      internalID: 498574119996173821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_217
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 1110
+        width: 122
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14bce446a8a3dfa0800000000000000
+      internalID: -5777088464911813603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_218
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1110
+        width: 117
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ddb3aa6e50a290800000000000000
+      internalID: -7881195535791695448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_219
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 1110
+        width: 114
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b5b51fca646450800000000000000
+      internalID: 6081102834512016022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_220
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 1110
+        width: 110
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb00b87a034c6fc0800000000000000
+      internalID: -3500349098120180792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_221
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 1110
+        width: 112
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0befda928214b4c60800000000000000
+      internalID: 7803402420103282352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 802
+        width: 115
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355325deacd8b0280800000000000000
+      internalID: -9076004721330604717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_223
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 802
+        width: 125
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c6d22424c5bae0800000000000000
+      internalID: -1534104438567419045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_224
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 802
+        width: 135
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c4eeff6ad7bcb0800000000000000
+      internalID: -4848166299288418871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_225
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 802
+        width: 152
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67734b48af0e75180800000000000000
+      internalID: -9126578753270171786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_226
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 802
+        width: 168
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa61313e50200d0800000000000000
+      internalID: -3458195091031151904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_227
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 802
+        width: 173
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6971c671a6a9040800000000000000
+      internalID: 4655149813671106286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_228
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 802
+        width: 175
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f16956ecea4c90800000000000000
+      internalID: -7184669781429979027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_229
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 802
+        width: 155
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7477db1cf6eaee0800000000000000
+      internalID: -1247937168836966496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_230
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 802
+        width: 132
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be507695265296df0800000000000000
+      internalID: -186576805222218261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_231
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 802
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da552d1ff87e3cc0800000000000000
+      internalID: -3729410404315211054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_232
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 538
+        width: 107
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8471886136eb360800000000000000
+      internalID: 7187291003753547952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_233
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 538
+        width: 114
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9f8e0b5d0f42550800000000000000
+      internalID: 6135293392972216778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_234
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 538
+        width: 121
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e3098951835450800000000000000
+      internalID: 6076342543803738199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_235
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 538
+        width: 126
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf42e4bc35f16940800000000000000
+      internalID: 5287777078591246257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_236
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 538
+        width: 134
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbfc322d3cac630800000000000000
+      internalID: 3948183330655027137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_237
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 538
+        width: 142
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01380899a188f00800000000000000
+      internalID: 1119173753989959889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_238
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 538
+        width: 146
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71095f31dc32d3e0800000000000000
+      internalID: -2030493612582043268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_239
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 537
+        width: 149
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63172714dc7a0da0800000000000000
+      internalID: -5977828305017564306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_240
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 536
+        width: 149
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13366260f4987910800000000000000
+      internalID: 1835380608317403930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_241
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 536
+        width: 149
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa5df912a762e10800000000000000
+      internalID: 2172558155086933806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_242
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 535
+        width: 149
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc7b62307afe7d70800000000000000
+      internalID: 9042940461595720947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_243
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 535
+        width: 149
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155f0b5b47a0f58b0800000000000000
+      internalID: -5161395151562541743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_244
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1544b56aa5ebf32c0800000000000000
+      internalID: -4449628610271427503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_245
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544d4a00b95362f0800000000000000
+      internalID: -980841681214684077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_246
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56a89c2dd0bc330800000000000000
+      internalID: 3732091915182171642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_247
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba4812f02912020800000000000000
+      internalID: 2315292277129653186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_248
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe070f6a871a6d90800000000000000
+      internalID: -7103839578887876870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_249
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 535
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf33b10c5e0f7920800000000000000
+      internalID: 2990124465925603270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_250
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 535
+        width: 151
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7433a8d5989a7f610800000000000000
+      internalID: 1654977795526898503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_251
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 535
+        width: 156
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe26f56651ae2dd0800000000000000
+      internalID: -2508890549948895489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_252
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 535
+        width: 164
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe51a4325706840800000000000000
+      internalID: 5215297162922290952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_253
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 535
+        width: 171
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57971ea7520ace380800000000000000
+      internalID: -8940595077401446027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_254
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 535
+        width: 177
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c7c63dde8ec770800000000000000
+      internalID: 8632994616473797840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_255
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 535
+        width: 183
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bec2eaf4478a870800000000000000
+      internalID: 8694326966212160315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_256
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 280
+        width: 189
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19061f55cc335d20800000000000000
+      internalID: 3266020973175245082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_257
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 280
+        width: 193
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817eeb9c096edda0800000000000000
+      internalID: -5918177357441633915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_258
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 280
+        width: 197
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88082763ec50a94e0800000000000000
+      internalID: -1974259103413665656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_259
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 280
+        width: 201
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc72270759d6b7e0800000000000000
+      internalID: -1749972437381776139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_260
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 280
+        width: 204
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de8d737f7be3bf70800000000000000
+      internalID: 9201957396279037651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_261
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 280
+        width: 206
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa550f52630f9ff0800000000000000
+      internalID: -27299351705068892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_262
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 280
+        width: 208
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a20a2521b7b74e0800000000000000
+      internalID: -1982855892300715446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_263
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 280
+        width: 208
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedfc760d50ec4e0800000000000000
+      internalID: -1959622395206574400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_264
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 280
+        width: 209
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f552f74a38ba470c0800000000000000
+      internalID: -4578846339240090273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_265
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 280
+        width: 209
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247cf28348cf92c00800000000000000
+      internalID: 876509247308810050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_266
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 280
+        width: 209
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f0dcc9c3083d20800000000000000
+      internalID: 3258358495662110048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_267
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 280
+        width: 209
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fc8dd35d310d20800000000000000
+      internalID: 3242940637092051030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_268
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 280
+        width: 208
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35ced8c419e3e10800000000000000
+      internalID: 2179339027678516161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_269
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 280
+        width: 149
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0decc6351fa2ec0800000000000000
+      internalID: -3590792412264476481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_270
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 280
+        width: 151
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08a64466174b960800000000000000
+      internalID: 7616837553838784745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_271
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 280
+        width: 152
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d203594f1c8d8dc0800000000000000
+      internalID: -3635095258216070446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_272
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 280
+        width: 152
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f9fda35b1d3490800000000000000
+      internalID: -7765020136301793269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_273
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 280
+        width: 155
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b8f4d2f04e90b0800000000000000
+      internalID: -5720063065014619179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_274
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 280
+        width: 156
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd024133d2463290800000000000000
+      internalID: -7911062220597752400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_275
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 280
+        width: 156
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada57df7f1bd7ee0800000000000000
+      internalID: -1261656641926484567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_276
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 280
+        width: 157
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d850803611480fe0800000000000000
+      internalID: -1222655735272285999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_277
+      rect:
+        serializedVersion: 2
+        x: 4981
+        y: 280
+        width: 159
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2ed0b8744e03e0800000000000000
+      internalID: -2085654292271845561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_278
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 280
+        width: 160
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d2e38aefdadcc0800000000000000
+      internalID: -3685387146721306846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_279
+      rect:
+        serializedVersion: 2
+        x: 5455
+        y: 280
+        width: 161
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc6a56d5134d210800000000000000
+      internalID: 1356763664952511436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_280
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 164
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570181c8593e36dd0800000000000000
+      internalID: -2493899537193103243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_281
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 166
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d31aa415d8ef2940800000000000000
+      internalID: 5273689690546508759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_282
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1
+        width: 168
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d04c9eae4398db0800000000000000
+      internalID: -4789238545182880431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_283
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4
+        width: 165
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034694847ed373c0800000000000000
+      internalID: -4362899021969865970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_284
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4
+        width: 166
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e33c2ce3f5ad200800000000000000
+      internalID: 205581456158965395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_285
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 4
+        width: 166
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b96cd95de74850800000000000000
+      internalID: 6361313968889902952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_286
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 4
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c502cca061a439d50800000000000000
+      internalID: 6742814525634650204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_287
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 4
+        width: 160
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1837f66eecac50800000000000000
+      internalID: 6677974473485328326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_288
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 4
+        width: 157
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef31d0e8b15f4650800000000000000
+      internalID: 6219279464909586408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_289
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 4
+        width: 156
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bdba6d94fa77780800000000000000
+      internalID: -8685280624691651818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_290
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 4
+        width: 144
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15724c73ec44a360800000000000000
+      internalID: 7179948245861430557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_291
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 98
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c3c034d1538870800000000000000
+      internalID: 8683874478293501394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_292
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 98
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404fa3da1ee803a40800000000000000
+      internalID: 5345929857613886468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_293
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 95
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89caef8ca55f9be10800000000000000
+      internalID: 2214070462097304728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_294
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 100
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcab754675a2943a0800000000000000
+      internalID: -6680762017393427761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_295
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 68
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52a23e3a967da30800000000000000
+      internalID: 4239973726804387298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_296
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 68
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5be5627f70fa6d0800000000000000
+      internalID: -2977152070586550876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_297
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 51
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5139a3c5f346d20800000000000000
+      internalID: 3270808894730081783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_298
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 49
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a9ad21a19e6c7e0800000000000000
+      internalID: -1745451507364750753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_299
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 49
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6403b9520623940800000000000000
+      internalID: 5274383828237960877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_73
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3429
+        width: 3135
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d85a449e54cc2350800000000000000
+      internalID: 5993381114617157841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_300
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 46
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b310204aae4c27a0800000000000000
+      internalID: -6400654477273066569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galamoth_301
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 51
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07beb784144491a80800000000000000
+      internalID: -8495684174878086288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
